@@ -1,0 +1,630 @@
+movie_id,Title,Year,ParentalGuide,Runtime,gross_us_canada,Genre
+0012349,The Kid,1921,Passed,68,,Comedy
+0012349,The Kid,1921,Passed,68,,Drama
+0012349,The Kid,1921,Passed,68,,Family
+0015324,Sherlock Jr.,1924,Passed,45,977375,Action
+0015324,Sherlock Jr.,1924,Passed,45,977375,Comedy
+0015324,Sherlock Jr.,1924,Passed,45,977375,Romance
+0015864,The Gold Rush,1925,Passed,95,,Adventure
+0015864,The Gold Rush,1925,Passed,95,,Comedy
+0015864,The Gold Rush,1925,Passed,95,,Drama
+0017136,Metropolis,1927,Unrated,153,1236166,Drama
+0017136,Metropolis,1927,Unrated,153,1236166,Sci-Fi
+0017925,The General,1926,Passed,67,,Action
+0017925,The General,1926,Passed,67,,Adventure
+0017925,The General,1926,Passed,67,,Comedy
+0019254,The Passion of Joan of Arc,1928,Passed,114,21877,Biography
+0019254,The Passion of Joan of Arc,1928,Passed,114,21877,Drama
+0019254,The Passion of Joan of Arc,1928,Passed,114,21877,History
+0021749,City Lights,1931,G,87,19181,Comedy
+0021749,City Lights,1931,G,87,19181,Drama
+0021749,City Lights,1931,G,87,19181,Romance
+0022100,M,1931,Passed,99,35566,Crime
+0022100,M,1931,Passed,99,35566,Mystery
+0022100,M,1931,Passed,99,35566,Thriller
+0025316,It Happened One Night,1934,Passed,105,,Comedy
+0025316,It Happened One Night,1934,Passed,105,,Romance
+0027977,Modern Times,1936,G,87,163577,Comedy
+0027977,Modern Times,1936,G,87,163577,Drama
+0027977,Modern Times,1936,G,87,163577,Romance
+0031381,Gone with the Wind,1939,Passed,238,200882193,Drama
+0031381,Gone with the Wind,1939,Passed,238,200882193,Romance
+0031381,Gone with the Wind,1939,Passed,238,200882193,War
+0031679,Mr. Smith Goes to Washington,1939,Passed,129,144738,Comedy
+0031679,Mr. Smith Goes to Washington,1939,Passed,129,144738,Drama
+0032138,The Wizard of Oz,1939,G,102,24668669,Adventure
+0032138,The Wizard of Oz,1939,G,102,24668669,Family
+0032138,The Wizard of Oz,1939,G,102,24668669,Fantasy
+0032551,The Grapes of Wrath,1940,Passed,129,,Drama
+0032553,The Great Dictator,1940,G,125,,Comedy
+0032553,The Great Dictator,1940,G,125,,Drama
+0032553,The Great Dictator,1940,G,125,,War
+0032976,Rebecca,1940,Approved,130,,Drama
+0032976,Rebecca,1940,Approved,130,,Film-Noir
+0032976,Rebecca,1940,Approved,130,,Mystery
+0033467,Citizen Kane,1941,PG,119,1627530,Drama
+0033467,Citizen Kane,1941,PG,119,1627530,Mystery
+0034583,Casablanca,1942,PG,102,4219709,Drama
+0034583,Casablanca,1942,PG,102,4219709,Romance
+0034583,Casablanca,1942,PG,102,4219709,War
+0035446,To Be or Not to Be,1942,Passed,99,3270000,Comedy
+0035446,To Be or Not to Be,1942,Passed,99,3270000,Romance
+0035446,To Be or Not to Be,1942,Passed,99,3270000,War
+0036775,Double Indemnity,1944,Passed,107,,Crime
+0036775,Double Indemnity,1944,Passed,107,,Drama
+0036775,Double Indemnity,1944,Passed,107,,Film-Noir
+0036868,The Best Years of Our Lives,1946,Approved,170,23650000,Drama
+0036868,The Best Years of Our Lives,1946,Approved,170,23650000,Romance
+0036868,The Best Years of Our Lives,1946,Approved,170,23650000,War
+0038650,It's a Wonderful Life,1946,PG,130,1483643,Drama
+0038650,It's a Wonderful Life,1946,PG,130,1483643,Family
+0038650,It's a Wonderful Life,1946,PG,130,1483643,Fantasy
+0040522,Bicycle Thieves,1948,Unrated,89,371111,Drama
+0040897,The Treasure of the Sierra Madre,1948,Passed,126,5014000,Adventure
+0040897,The Treasure of the Sierra Madre,1948,Passed,126,5014000,Drama
+0040897,The Treasure of the Sierra Madre,1948,Passed,126,5014000,Western
+0041959,The Third Man,1949,Approved,93,1067364,Film-Noir
+0041959,The Third Man,1949,Approved,93,1067364,Mystery
+0041959,The Third Man,1949,Approved,93,1067364,Thriller
+0042192,All About Eve,1950,Passed,138,63463,Drama
+0042876,Rashomon,1950,Unrated,88,46808,Crime
+0042876,Rashomon,1950,Unrated,88,46808,Drama
+0042876,Rashomon,1950,Unrated,88,46808,Mystery
+0043014,Sunset Blvd.,1950,Passed,110,299645,Drama
+0043014,Sunset Blvd.,1950,Passed,110,299645,Film-Noir
+0044741,Ikiru,1952,Unrated,143,60239,Drama
+0045152,Singin' in the Rain,1952,G,103,1884537,Comedy
+0045152,Singin' in the Rain,1952,G,103,1884537,Musical
+0045152,Singin' in the Rain,1952,G,103,1884537,Romance
+0046268,The Wages of Fear,1953,Unrated,131,,Adventure
+0046268,The Wages of Fear,1953,Unrated,131,,Drama
+0046268,The Wages of Fear,1953,Unrated,131,,Thriller
+0046438,Tokyo Story,1953,Unrated,136,,Drama
+0046912,Dial M for Murder,1954,PG,105,24845,Crime
+0046912,Dial M for Murder,1954,PG,105,24845,Thriller
+0047296,On the Waterfront,1954,Approved,108,,Crime
+0047296,On the Waterfront,1954,Approved,108,,Drama
+0047296,On the Waterfront,1954,Approved,108,,Thriller
+0047396,Rear Window,1954,PG,112,36764313,Mystery
+0047396,Rear Window,1954,PG,112,36764313,Thriller
+0047478,Seven Samurai,1954,Unrated,207,318649,Action
+0047478,Seven Samurai,1954,Unrated,207,318649,Drama
+0048473,Pather Panchali,1955,Unrated,125,134241,Drama
+0050083,12 Angry Men,1957,Approved,96,,Crime
+0050083,12 Angry Men,1957,Approved,96,,Drama
+0050212,The Bridge on the River Kwai,1957,PG,161,27200000,Adventure
+0050212,The Bridge on the River Kwai,1957,PG,161,27200000,Drama
+0050212,The Bridge on the River Kwai,1957,PG,161,27200000,War
+0050825,Paths of Glory,1957,Approved,88,,Drama
+0050825,Paths of Glory,1957,Approved,88,,War
+0050976,The Seventh Seal,1957,Unrated,96,,Drama
+0050976,The Seventh Seal,1957,Unrated,96,,Fantasy
+0050986,Wild Strawberries,1957,Unrated,91,,Drama
+0050986,Wild Strawberries,1957,Unrated,91,,Romance
+0051201,Witness for the Prosecution,1957,Approved,116,,Crime
+0051201,Witness for the Prosecution,1957,Approved,116,,Drama
+0051201,Witness for the Prosecution,1957,Approved,116,,Mystery
+0052357,Vertigo,1958,PG,128,7705225,Mystery
+0052357,Vertigo,1958,PG,128,7705225,Romance
+0052357,Vertigo,1958,PG,128,7705225,Thriller
+0052618,Ben-Hur,1959,G,212,74432704,Adventure
+0052618,Ben-Hur,1959,G,212,74432704,Drama
+0053125,North by Northwest,1959,Approved,136,66728,Action
+0053125,North by Northwest,1959,Approved,136,66728,Adventure
+0053125,North by Northwest,1959,Approved,136,66728,Mystery
+0053198,The 400 Blows,1959,Unrated,99,509,Crime
+0053198,The 400 Blows,1959,Unrated,99,509,Drama
+0053291,Some Like It Hot,1959,Passed,121,,Comedy
+0053291,Some Like It Hot,1959,Passed,121,,Music
+0053291,Some Like It Hot,1959,Passed,121,,Romance
+0053604,The Apartment,1960,Approved,125,18600000,Comedy
+0053604,The Apartment,1960,Approved,125,18600000,Drama
+0053604,The Apartment,1960,Approved,125,18600000,Romance
+0054215,Psycho,1960,R,109,32000000,Horror
+0054215,Psycho,1960,R,109,32000000,Mystery
+0054215,Psycho,1960,R,109,32000000,Thriller
+0055031,Judgment at Nuremberg,1961,Approved,179,,Drama
+0055031,Judgment at Nuremberg,1961,Approved,179,,War
+0055630,Yojimbo,1961,Unrated,110,46808,Action
+0055630,Yojimbo,1961,Unrated,110,46808,Drama
+0055630,Yojimbo,1961,Unrated,110,46808,Thriller
+0056058,Harakiri,1962,Unrated,133,,Action
+0056058,Harakiri,1962,Unrated,133,,Drama
+0056058,Harakiri,1962,Unrated,133,,Mystery
+0056172,Lawrence of Arabia,1962,Approved,218,45306425,Adventure
+0056172,Lawrence of Arabia,1962,Approved,218,45306425,Biography
+0056172,Lawrence of Arabia,1962,Approved,218,45306425,Drama
+0056592,To Kill a Mockingbird,1962,Approved,129,592237,Crime
+0056592,To Kill a Mockingbird,1962,Approved,129,592237,Drama
+0057012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,PG,95,9440272,Comedy
+0057012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,PG,95,9440272,War
+0057115,The Great Escape,1963,Approved,172,,Adventure
+0057115,The Great Escape,1963,Approved,172,,Drama
+0057115,The Great Escape,1963,Approved,172,,History
+0057565,High and Low,1963,Unrated,143,46808,Crime
+0057565,High and Low,1963,Unrated,143,46808,Drama
+0057565,High and Low,1963,Unrated,143,46808,Mystery
+0058946,The Battle of Algiers,1966,Unrated,121,879794,Drama
+0058946,The Battle of Algiers,1966,Unrated,121,879794,War
+0059578,For a Few Dollars More,1965,R,132,15000000,Drama
+0059578,For a Few Dollars More,1965,R,132,15000000,Western
+0059742,The Sound of Music,1965,G,172,159287539,Biography
+0059742,The Sound of Music,1965,G,172,159287539,Drama
+0059742,The Sound of Music,1965,G,172,159287539,Family
+0060196,"The Good, the Bad and the Ugly",1966,Approved,178,25100000,Adventure
+0060196,"The Good, the Bad and the Ugly",1966,Approved,178,25100000,Western
+0060827,Persona,1966,Unrated,83,,Drama
+0060827,Persona,1966,Unrated,83,,Thriller
+0061512,Cool Hand Luke,1967,GP,127,,Crime
+0061512,Cool Hand Luke,1967,GP,127,,Drama
+0062622,2001: A Space Odyssey,1968,G,149,60481243,Adventure
+0062622,2001: A Space Odyssey,1968,G,149,60481243,Sci-Fi
+0064116,Once Upon a Time in the West,1968,PG-13,165,5321508,Western
+0066921,A Clockwork Orange,1971,X,136,26617553,Crime
+0066921,A Clockwork Orange,1971,X,136,26617553,Sci-Fi
+0068646,The Godfather,1972,R,175,136381073,Crime
+0068646,The Godfather,1972,R,175,136381073,Drama
+0070047,The Exorcist,1973,R,122,233005644,Horror
+0070735,The Sting,1973,PG,129,156000000,Comedy
+0070735,The Sting,1973,PG,129,156000000,Crime
+0070735,The Sting,1973,PG,129,156000000,Drama
+0071315,Chinatown,1974,R,130,29200000,Drama
+0071315,Chinatown,1974,R,130,29200000,Mystery
+0071315,Chinatown,1974,R,130,29200000,Thriller
+0071562,The Godfather Part II,1974,R,202,47834595,Crime
+0071562,The Godfather Part II,1974,R,202,47834595,Drama
+0071853,Monty Python and the Holy Grail,1975,PG,91,1827696,Adventure
+0071853,Monty Python and the Holy Grail,1975,PG,91,1827696,Comedy
+0071853,Monty Python and the Holy Grail,1975,PG,91,1827696,Fantasy
+0072684,Barry Lyndon,1975,PG,185,,Adventure
+0072684,Barry Lyndon,1975,PG,185,,Drama
+0072684,Barry Lyndon,1975,PG,185,,War
+0073195,Jaws,1975,PG,124,265859065,Adventure
+0073195,Jaws,1975,PG,124,265859065,Mystery
+0073195,Jaws,1975,PG,124,265859065,Thriller
+0073486,One Flew Over the Cuckoo's Nest,1975,R,133,108981275,Drama
+0074958,Network,1976,R,121,23689877,Drama
+0075148,Rocky,1976,PG,120,117235147,Drama
+0075148,Rocky,1976,PG,120,117235147,Sport
+0075314,Taxi Driver,1976,R,114,28262574,Crime
+0075314,Taxi Driver,1976,R,114,28262574,Drama
+0076759,Star Wars: Episode IV - A New Hope,1977,PG,121,460998507,Action
+0076759,Star Wars: Episode IV - A New Hope,1977,PG,121,460998507,Adventure
+0076759,Star Wars: Episode IV - A New Hope,1977,PG,121,460998507,Fantasy
+0077416,The Deer Hunter,1978,R,183,48979328,Drama
+0077416,The Deer Hunter,1978,R,183,48979328,War
+0078748,Alien,1979,R,117,81900459,Horror
+0078748,Alien,1979,R,117,81900459,Sci-Fi
+0078788,Apocalypse Now,1979,R,147,96042913,Drama
+0078788,Apocalypse Now,1979,R,147,96042913,Mystery
+0078788,Apocalypse Now,1979,R,147,96042913,War
+0079470,Life of Brian,1979,R,94,20206622,Comedy
+0080678,The Elephant Man,1980,PG,124,26010864,Biography
+0080678,The Elephant Man,1980,PG,124,26010864,Drama
+0080684,Star Wars: Episode V - The Empire Strikes Back,1980,PG,124,292753960,Action
+0080684,Star Wars: Episode V - The Empire Strikes Back,1980,PG,124,292753960,Adventure
+0080684,Star Wars: Episode V - The Empire Strikes Back,1980,PG,124,292753960,Fantasy
+0081398,Raging Bull,1980,R,129,23383987,Biography
+0081398,Raging Bull,1980,R,129,23383987,Drama
+0081398,Raging Bull,1980,R,129,23383987,Sport
+0081505,The Shining,1980,R,146,45634352,Drama
+0081505,The Shining,1980,R,146,45634352,Horror
+0082096,Das Boot,1981,Unrated,149,11487676,Drama
+0082096,Das Boot,1981,Unrated,149,11487676,War
+0082971,Indiana Jones and the Raiders of the Lost Ark,1981,PG,115,248159971,Action
+0082971,Indiana Jones and the Raiders of the Lost Ark,1981,PG,115,248159971,Adventure
+0083658,Blade Runner,1982,R,117,32914489,Action
+0083658,Blade Runner,1982,R,117,32914489,Drama
+0083658,Blade Runner,1982,R,117,32914489,Sci-Fi
+0084787,The Thing,1982,R,109,19629760,Horror
+0084787,The Thing,1982,R,109,19629760,Mystery
+0084787,The Thing,1982,R,109,19629760,Sci-Fi
+0086190,Star Wars: Episode VI - Return of the Jedi,1983,PG,131,316566101,Action
+0086190,Star Wars: Episode VI - Return of the Jedi,1983,PG,131,316566101,Adventure
+0086190,Star Wars: Episode VI - Return of the Jedi,1983,PG,131,316566101,Fantasy
+0086250,Scarface,1983,R,170,45408703,Crime
+0086250,Scarface,1983,R,170,45408703,Drama
+0086879,Amadeus,1984,PG,160,51973029,Biography
+0086879,Amadeus,1984,PG,160,51973029,Drama
+0086879,Amadeus,1984,PG,160,51973029,Music
+0087843,Once Upon a Time in America,1984,R,229,5321508,Crime
+0087843,Once Upon a Time in America,1984,R,229,5321508,Drama
+0088247,The Terminator,1984,R,107,38371200,Action
+0088247,The Terminator,1984,R,107,38371200,Sci-Fi
+0088763,Back to the Future,1985,PG,116,212836762,Adventure
+0088763,Back to the Future,1985,PG,116,212836762,Comedy
+0088763,Back to the Future,1985,PG,116,212836762,Sci-Fi
+0089881,Ran,1985,R,162,4135750,Action
+0089881,Ran,1985,R,162,4135750,Drama
+0089881,Ran,1985,R,162,4135750,War
+0090605,Aliens,1986,R,137,85160248,Action
+0090605,Aliens,1986,R,137,85160248,Adventure
+0090605,Aliens,1986,R,137,85160248,Sci-Fi
+0091251,Come and See,1985,Unrated,142,71909,Drama
+0091251,Come and See,1985,Unrated,142,71909,Thriller
+0091251,Come and See,1985,Unrated,142,71909,War
+0091763,Platoon,1986,R,120,138530565,Drama
+0091763,Platoon,1986,R,120,138530565,War
+0092005,Stand by Me,1986,R,89,52287414,Adventure
+0092005,Stand by Me,1986,R,89,52287414,Drama
+0093058,Full Metal Jacket,1987,R,116,46357676,Drama
+0093058,Full Metal Jacket,1987,R,116,46357676,War
+0095016,Die Hard,1988,R,132,83844093,Action
+0095016,Die Hard,1988,R,132,83844093,Thriller
+0095327,Grave of the Fireflies,1988,Unrated,89,516962,Animation
+0095327,Grave of the Fireflies,1988,Unrated,89,516962,Drama
+0095327,Grave of the Fireflies,1988,Unrated,89,516962,War
+0095765,Cinema Paradiso,1988,PG,155,12397210,Drama
+0095765,Cinema Paradiso,1988,PG,155,12397210,Romance
+0096283,My Neighbor Totoro,1988,G,86,2250213,Animation
+0096283,My Neighbor Totoro,1988,G,86,2250213,Comedy
+0096283,My Neighbor Totoro,1988,G,86,2250213,Family
+0097165,Dead Poets Society,1989,PG,128,95860116,Comedy
+0097165,Dead Poets Society,1989,PG,128,95860116,Drama
+0097576,Indiana Jones and the Last Crusade,1989,PG-13,127,197171806,Action
+0097576,Indiana Jones and the Last Crusade,1989,PG-13,127,197171806,Adventure
+0099348,Dances with Wolves,1990,PG-13,181,184208848,Adventure
+0099348,Dances with Wolves,1990,PG-13,181,184208848,Drama
+0099348,Dances with Wolves,1990,PG-13,181,184208848,Western
+0099685,Goodfellas,1990,R,145,46909721,Biography
+0099685,Goodfellas,1990,R,145,46909721,Crime
+0099685,Goodfellas,1990,R,145,46909721,Drama
+0102926,The Silence of the Lambs,1991,R,118,130742922,Crime
+0102926,The Silence of the Lambs,1991,R,118,130742922,Drama
+0102926,The Silence of the Lambs,1991,R,118,130742922,Thriller
+0103064,Terminator 2: Judgment Day,1991,R,137,205881154,Action
+0103064,Terminator 2: Judgment Day,1991,R,137,205881154,Sci-Fi
+0103639,Aladdin,1992,G,90,217350219,Animation
+0103639,Aladdin,1992,G,90,217350219,Adventure
+0103639,Aladdin,1992,G,90,217350219,Comedy
+0105236,Reservoir Dogs,1992,R,99,2832029,Crime
+0105236,Reservoir Dogs,1992,R,99,2832029,Thriller
+0105695,Unforgiven,1992,R,130,101167799,Drama
+0105695,Unforgiven,1992,R,130,101167799,Western
+0107048,Groundhog Day,1993,PG,101,71107962,Comedy
+0107048,Groundhog Day,1993,PG,101,71107962,Drama
+0107048,Groundhog Day,1993,PG,101,71107962,Fantasy
+0107207,In the Name of the Father,1993,R,133,25096862,Biography
+0107207,In the Name of the Father,1993,R,133,25096862,Crime
+0107207,In the Name of the Father,1993,R,133,25096862,Drama
+0107290,Jurassic Park,1993,PG-13,127,404214720,Action
+0107290,Jurassic Park,1993,PG-13,127,404214720,Adventure
+0107290,Jurassic Park,1993,PG-13,127,404214720,Sci-Fi
+0108052,Schindler's List,1993,R,195,96898818,Biography
+0108052,Schindler's List,1993,R,195,96898818,Drama
+0108052,Schindler's List,1993,R,195,96898818,History
+0109830,Forrest Gump,1994,PG-13,142,330455270,Drama
+0109830,Forrest Gump,1994,PG-13,142,330455270,Romance
+0110357,The Lion King,1994,G,88,422783777,Animation
+0110357,The Lion King,1994,G,88,422783777,Adventure
+0110357,The Lion King,1994,G,88,422783777,Drama
+0110413,Léon: The Professional,1994,R,110,19501238,Action
+0110413,Léon: The Professional,1994,R,110,19501238,Crime
+0110413,Léon: The Professional,1994,R,110,19501238,Drama
+0110912,Pulp Fiction,1994,R,154,107928762,Crime
+0110912,Pulp Fiction,1994,R,154,107928762,Drama
+0111161,The Shawshank Redemption,1994,R,142,28767189,Drama
+0112471,Before Sunrise,1995,R,101,5535405,Drama
+0112471,Before Sunrise,1995,R,101,5535405,Romance
+0112573,Braveheart,1995,R,178,75609945,Biography
+0112573,Braveheart,1995,R,178,75609945,Drama
+0112573,Braveheart,1995,R,178,75609945,History
+0112641,Casino,1995,R,178,42512375,Crime
+0112641,Casino,1995,R,178,42512375,Drama
+0113247,La haine,1995,Unrated,98,280859,Crime
+0113247,La haine,1995,Unrated,98,280859,Drama
+0113277,Heat,1995,R,170,67436818,Action
+0113277,Heat,1995,R,170,67436818,Crime
+0113277,Heat,1995,R,170,67436818,Drama
+0114369,Se7en,1995,R,127,100125643,Crime
+0114369,Se7en,1995,R,127,100125643,Drama
+0114369,Se7en,1995,R,127,100125643,Mystery
+0114709,Toy Story,1995,G,81,223225679,Animation
+0114709,Toy Story,1995,G,81,223225679,Adventure
+0114709,Toy Story,1995,G,81,223225679,Comedy
+0114814,The Usual Suspects,1995,R,106,23341568,Crime
+0114814,The Usual Suspects,1995,R,106,23341568,Drama
+0114814,The Usual Suspects,1995,R,106,23341568,Mystery
+0116282,Fargo,1996,R,98,24611975,Crime
+0116282,Fargo,1996,R,98,24611975,Thriller
+0117951,Trainspotting,1996,R,93,16491080,Drama
+0118715,The Big Lebowski,1998,R,117,18254458,Comedy
+0118715,The Big Lebowski,1998,R,117,18254458,Crime
+0118799,Life Is Beautiful,1997,PG-13,116,57563264,Comedy
+0118799,Life Is Beautiful,1997,PG-13,116,57563264,Drama
+0118799,Life Is Beautiful,1997,PG-13,116,57563264,Romance
+0118849,Children of Heaven,1997,PG,89,933933,Drama
+0118849,Children of Heaven,1997,PG,89,933933,Family
+0118849,Children of Heaven,1997,PG,89,933933,Sport
+0119217,Good Will Hunting,1997,R,126,138433435,Drama
+0119217,Good Will Hunting,1997,R,126,138433435,Romance
+0119488,L.A. Confidential,1997,R,138,64616940,Crime
+0119488,L.A. Confidential,1997,R,138,64616940,Drama
+0119488,L.A. Confidential,1997,R,138,64616940,Mystery
+0119698,Princess Mononoke,1997,PG-13,134,4845631,Animation
+0119698,Princess Mononoke,1997,PG-13,134,4845631,Action
+0119698,Princess Mononoke,1997,PG-13,134,4845631,Adventure
+0120382,The Truman Show,1998,PG,103,125618201,Comedy
+0120382,The Truman Show,1998,PG,103,125618201,Drama
+0120586,American History X,1998,R,119,6719864,Crime
+0120586,American History X,1998,R,119,6719864,Drama
+0120689,The Green Mile,1999,R,189,136801374,Crime
+0120689,The Green Mile,1999,R,189,136801374,Drama
+0120689,The Green Mile,1999,R,189,136801374,Fantasy
+0120735,"Lock, Stock and Two Smoking Barrels",1998,R,107,3753929,Action
+0120735,"Lock, Stock and Two Smoking Barrels",1998,R,107,3753929,Comedy
+0120735,"Lock, Stock and Two Smoking Barrels",1998,R,107,3753929,Crime
+0120737,The Lord of the Rings: The Fellowship of the Ring,2001,PG-13,178,316115420,Action
+0120737,The Lord of the Rings: The Fellowship of the Ring,2001,PG-13,178,316115420,Adventure
+0120737,The Lord of the Rings: The Fellowship of the Ring,2001,PG-13,178,316115420,Drama
+0120815,Saving Private Ryan,1998,R,169,217049603,Drama
+0120815,Saving Private Ryan,1998,R,169,217049603,War
+0129167,The Iron Giant,1999,PG,86,23315035,Animation
+0129167,The Iron Giant,1999,PG,86,23315035,Action
+0129167,The Iron Giant,1999,PG,86,23315035,Adventure
+0133093,The Matrix,1999,R,136,172076928,Action
+0133093,The Matrix,1999,R,136,172076928,Sci-Fi
+0137523,Fight Club,1999,R,139,37030102,Drama
+0167260,The Lord of the Rings: The Return of the King,2003,PG-13,201,379427292,Action
+0167260,The Lord of the Rings: The Return of the King,2003,PG-13,201,379427292,Adventure
+0167260,The Lord of the Rings: The Return of the King,2003,PG-13,201,379427292,Drama
+0167261,The Lord of the Rings: The Two Towers,2002,PG-13,179,342952511,Action
+0167261,The Lord of the Rings: The Two Towers,2002,PG-13,179,342952511,Adventure
+0167261,The Lord of the Rings: The Two Towers,2002,PG-13,179,342952511,Drama
+0167404,The Sixth Sense,1999,PG-13,107,293506292,Drama
+0167404,The Sixth Sense,1999,PG-13,107,293506292,Mystery
+0167404,The Sixth Sense,1999,PG-13,107,293506292,Thriller
+0169547,American Beauty,1999,R,122,130096601,Drama
+0172495,Gladiator,2000,R,155,187705427,Action
+0172495,Gladiator,2000,R,155,187705427,Adventure
+0172495,Gladiator,2000,R,155,187705427,Drama
+0180093,Requiem for a Dream,2000,Unrated,102,3635482,Drama
+0198781,"Monsters, Inc.",2001,G,92,290642256,Animation
+0198781,"Monsters, Inc.",2001,G,92,290642256,Adventure
+0198781,"Monsters, Inc.",2001,G,92,290642256,Comedy
+0208092,Snatch,2000,R,102,30328156,Comedy
+0208092,Snatch,2000,R,102,30328156,Crime
+0209144,Memento,2000,R,113,25544867,Mystery
+0209144,Memento,2000,R,113,25544867,Thriller
+0211915,Amélie,2001,R,122,33225499,Comedy
+0211915,Amélie,2001,R,122,33225499,Romance
+0245429,Spirited Away,2001,PG,125,15205725,Animation
+0245429,Spirited Away,2001,PG,125,15205725,Adventure
+0245429,Spirited Away,2001,PG,125,15205725,Family
+0245712,Amores Perros,2000,R,154,5408467,Drama
+0245712,Amores Perros,2000,R,154,5408467,Thriller
+0253474,The Pianist,2002,R,150,32572577,Biography
+0253474,The Pianist,2002,R,150,32572577,Drama
+0253474,The Pianist,2002,R,150,32572577,Music
+0264464,Catch Me If You Can,2002,PG-13,141,164615351,Biography
+0264464,Catch Me If You Can,2002,PG-13,141,164615351,Crime
+0264464,Catch Me If You Can,2002,PG-13,141,164615351,Drama
+0266543,Finding Nemo,2003,G,100,380843261,Animation
+0266543,Finding Nemo,2003,G,100,380843261,Adventure
+0266543,Finding Nemo,2003,G,100,380843261,Comedy
+0266697,Kill Bill: Vol. 1,2003,R,111,70099045,Action
+0266697,Kill Bill: Vol. 1,2003,R,111,70099045,Crime
+0266697,Kill Bill: Vol. 1,2003,R,111,70099045,Drama
+0268978,A Beautiful Mind,2001,PG-13,135,170742341,Biography
+0268978,A Beautiful Mind,2001,PG-13,135,170742341,Drama
+0317248,City of God,2002,R,130,7564459,Crime
+0317248,City of God,2002,R,130,7564459,Drama
+0317705,The Incredibles,2004,PG,115,261441092,Animation
+0317705,The Incredibles,2004,PG,115,261441092,Action
+0317705,The Incredibles,2004,PG,115,261441092,Adventure
+0325980,Pirates of the Caribbean: The Curse of the Black Pearl,2003,PG-13,143,305413918,Action
+0325980,Pirates of the Caribbean: The Curse of the Black Pearl,2003,PG-13,143,305413918,Adventure
+0325980,Pirates of the Caribbean: The Curse of the Black Pearl,2003,PG-13,143,305413918,Fantasy
+0338013,Eternal Sunshine of the Spotless Mind,2004,R,108,34400301,Drama
+0338013,Eternal Sunshine of the Spotless Mind,2004,R,108,34400301,Romance
+0338013,Eternal Sunshine of the Spotless Mind,2004,R,108,34400301,Sci-Fi
+0347149,Howl's Moving Castle,2004,PG,119,6789268,Animation
+0347149,Howl's Moving Castle,2004,PG,119,6789268,Adventure
+0347149,Howl's Moving Castle,2004,PG,119,6789268,Family
+0353969,Memories of Murder,2003,Unrated,132,15357,Crime
+0353969,Memories of Murder,2003,Unrated,132,15357,Drama
+0353969,Memories of Murder,2003,Unrated,132,15357,Mystery
+0361748,Inglourious Basterds,2009,R,153,120540719,Adventure
+0361748,Inglourious Basterds,2009,R,153,120540719,Drama
+0361748,Inglourious Basterds,2009,R,153,120540719,War
+0363163,Downfall,2004,R,156,5509040,Biography
+0363163,Downfall,2004,R,156,5509040,Drama
+0363163,Downfall,2004,R,156,5509040,History
+0364569,Oldboy,2003,R,120,707481,Action
+0364569,Oldboy,2003,R,120,707481,Drama
+0364569,Oldboy,2003,R,120,707481,Mystery
+0372784,Batman Begins,2005,PG-13,140,206863479,Action
+0372784,Batman Begins,2005,PG-13,140,206863479,Crime
+0372784,Batman Begins,2005,PG-13,140,206863479,Drama
+0381681,Before Sunset,2004,R,80,5820649,Drama
+0381681,Before Sunset,2004,R,80,5820649,Romance
+0382932,Ratatouille,2007,G,111,206445654,Animation
+0382932,Ratatouille,2007,G,111,206445654,Adventure
+0382932,Ratatouille,2007,G,111,206445654,Comedy
+0395169,Hotel Rwanda,2004,PG-13,121,23530892,Biography
+0395169,Hotel Rwanda,2004,PG-13,121,23530892,Drama
+0395169,Hotel Rwanda,2004,PG-13,121,23530892,History
+0405094,The Lives of Others,2006,R,137,11286112,Drama
+0405094,The Lives of Others,2006,R,137,11286112,Mystery
+0405094,The Lives of Others,2006,R,137,11286112,Thriller
+0405159,Million Dollar Baby,2004,PG-13,132,100492203,Drama
+0405159,Million Dollar Baby,2004,PG-13,132,100492203,Sport
+0407887,The Departed,2006,R,151,132399394,Crime
+0407887,The Departed,2006,R,151,132399394,Drama
+0407887,The Departed,2006,R,151,132399394,Thriller
+0434409,V for Vendetta,2005,R,132,70511035,Action
+0434409,V for Vendetta,2005,R,132,70511035,Drama
+0434409,V for Vendetta,2005,R,132,70511035,Sci-Fi
+0435761,Toy Story 3,2010,G,103,415004880,Animation
+0435761,Toy Story 3,2010,G,103,415004880,Adventure
+0435761,Toy Story 3,2010,G,103,415004880,Comedy
+0457430,Pan's Labyrinth,2006,R,118,37646380,Drama
+0457430,Pan's Labyrinth,2006,R,118,37646380,Fantasy
+0457430,Pan's Labyrinth,2006,R,118,37646380,War
+0468569,The Dark Knight,2008,PG-13,152,534987076,Action
+0468569,The Dark Knight,2008,PG-13,152,534987076,Crime
+0468569,The Dark Knight,2008,PG-13,152,534987076,Drama
+0469494,There Will Be Blood,2007,R,158,40222514,Drama
+0476735,My Father and My Son,2005,Unrated,112,,Drama
+0476735,My Father and My Son,2005,Unrated,112,,Family
+0477348,No Country for Old Men,2007,R,122,74283625,Crime
+0477348,No Country for Old Men,2007,R,122,74283625,Drama
+0477348,No Country for Old Men,2007,R,122,74283625,Thriller
+0482571,The Prestige,2006,PG-13,130,53089891,Drama
+0482571,The Prestige,2006,PG-13,130,53089891,Mystery
+0482571,The Prestige,2006,PG-13,130,53089891,Sci-Fi
+0758758,Into the Wild,2007,R,148,18354356,Adventure
+0758758,Into the Wild,2007,R,148,18354356,Biography
+0758758,Into the Wild,2007,R,148,18354356,Drama
+0816692,Interstellar,2014,PG-13,169,188020017,Adventure
+0816692,Interstellar,2014,PG-13,169,188020017,Drama
+0816692,Interstellar,2014,PG-13,169,188020017,Sci-Fi
+0892769,How to Train Your Dragon,2010,PG,98,217581231,Animation
+0892769,How to Train Your Dragon,2010,PG,98,217581231,Action
+0892769,How to Train Your Dragon,2010,PG,98,217581231,Adventure
+0910970,WALL·E,2008,G,98,223808164,Animation
+0910970,WALL·E,2008,G,98,223808164,Adventure
+0910970,WALL·E,2008,G,98,223808164,Family
+0978762,Mary and Max,2009,Unrated,92,,Animation
+0978762,Mary and Max,2009,Unrated,92,,Comedy
+0978762,Mary and Max,2009,Unrated,92,,Drama
+0986264,Like Stars on Earth,2007,PG,165,1223869,Drama
+0986264,Like Stars on Earth,2007,PG,165,1223869,Family
+0993846,The Wolf of Wall Street,2013,R,180,116900694,Biography
+0993846,The Wolf of Wall Street,2013,R,180,116900694,Comedy
+0993846,The Wolf of Wall Street,2013,R,180,116900694,Crime
+10272386,The Father,2020,PG-13,97,2122771,Drama
+10272386,The Father,2020,PG-13,97,2122771,Mystery
+1028532,Hachi: A Dog's Tale,2009,G,93,,Biography
+1028532,Hachi: A Dog's Tale,2009,G,93,,Drama
+1028532,Hachi: A Dog's Tale,2009,G,93,,Family
+10366206,John Wick: Chapter 4,2023,R,169,181514089,Action
+10366206,John Wick: Chapter 4,2023,R,169,181514089,Crime
+10366206,John Wick: Chapter 4,2023,R,169,181514089,Thriller
+1049413,Up,2009,PG,96,293004164,Animation
+1049413,Up,2009,PG,96,293004164,Adventure
+1049413,Up,2009,PG,96,293004164,Comedy
+10872600,Spider-Man: No Way Home,2021,PG-13,148,814115070,Action
+10872600,Spider-Man: No Way Home,2021,PG-13,148,814115070,Adventure
+10872600,Spider-Man: No Way Home,2021,PG-13,148,814115070,Fantasy
+1130884,Shutter Island,2010,R,138,128012934,Mystery
+1130884,Shutter Island,2010,R,138,128012934,Thriller
+1187043,3 Idiots,2009,PG-13,170,6532874,Comedy
+1187043,3 Idiots,2009,PG-13,170,6532874,Drama
+1201607,Harry Potter and the Deathly Hallows: Part 2,2011,PG-13,130,381447587,Adventure
+1201607,Harry Potter and the Deathly Hallows: Part 2,2011,PG-13,130,381447587,Family
+1201607,Harry Potter and the Deathly Hallows: Part 2,2011,PG-13,130,381447587,Fantasy
+1205489,Gran Torino,2008,R,116,148095302,Drama
+1255953,Incendies,2010,R,131,2071334,Drama
+1255953,Incendies,2010,R,131,2071334,Mystery
+1291584,Warrior,2011,PG-13,140,13657115,Action
+1291584,Warrior,2011,PG-13,140,13657115,Drama
+1291584,Warrior,2011,PG-13,140,13657115,Sport
+1305806,The Secret in Their Eyes,2009,R,129,6391436,Drama
+1305806,The Secret in Their Eyes,2009,R,129,6391436,Mystery
+1305806,The Secret in Their Eyes,2009,R,129,6391436,Romance
+1345836,The Dark Knight Rises,2012,PG-13,164,448149584,Action
+1345836,The Dark Knight Rises,2012,PG-13,164,448149584,Drama
+1345836,The Dark Knight Rises,2012,PG-13,164,448149584,Thriller
+1375666,Inception,2010,PG-13,148,292587330,Action
+1375666,Inception,2010,PG-13,148,292587330,Adventure
+1375666,Inception,2010,PG-13,148,292587330,Sci-Fi
+1392190,Mad Max: Fury Road,2015,R,120,154109060,Action
+1392190,Mad Max: Fury Road,2015,R,120,154109060,Adventure
+1392190,Mad Max: Fury Road,2015,R,120,154109060,Sci-Fi
+1392214,Prisoners,2013,R,153,61002302,Crime
+1392214,Prisoners,2013,R,153,61002302,Drama
+1392214,Prisoners,2013,R,153,61002302,Mystery
+1454029,The Help,2011,PG-13,146,169708112,Drama
+15097216,Jai Bhim,2021,TV-MA,164,,Crime
+15097216,Jai Bhim,2021,TV-MA,164,,Drama
+15097216,Jai Bhim,2021,TV-MA,164,,Mystery
+1675434,The Intouchables,2011,R,112,10198820,Biography
+1675434,The Intouchables,2011,R,112,10198820,Comedy
+1675434,The Intouchables,2011,R,112,10198820,Drama
+1745960,Top Gun: Maverick,2022,PG-13,130,718732821,Action
+1745960,Top Gun: Maverick,2022,PG-13,130,718732821,Drama
+1832382,A Separation,2011,PG-13,123,7099055,Drama
+1853728,Django Unchained,2012,R,165,162805434,Drama
+1853728,Django Unchained,2012,R,165,162805434,Western
+1895587,Spotlight,2015,R,129,45055776,Biography
+1895587,Spotlight,2015,R,129,45055776,Crime
+1895587,Spotlight,2015,R,129,45055776,Drama
+1950186,Ford v Ferrari,2019,PG-13,152,117624357,Action
+1950186,Ford v Ferrari,2019,PG-13,152,117624357,Biography
+1950186,Ford v Ferrari,2019,PG-13,152,117624357,Drama
+1979320,Rush,2013,R,123,26947624,Action
+1979320,Rush,2013,R,123,26947624,Biography
+1979320,Rush,2013,R,123,26947624,Drama
+2024544,12 Years a Slave,2013,R,134,56671993,Biography
+2024544,12 Years a Slave,2013,R,134,56671993,Drama
+2024544,12 Years a Slave,2013,R,134,56671993,History
+2096673,Inside Out,2015,PG,95,356921711,Animation
+2096673,Inside Out,2015,PG,95,356921711,Adventure
+2096673,Inside Out,2015,PG,95,356921711,Comedy
+2106476,The Hunt,2012,R,115,613308,Drama
+2119532,Hacksaw Ridge,2016,R,139,67209615,Biography
+2119532,Hacksaw Ridge,2016,R,139,67209615,Drama
+2119532,Hacksaw Ridge,2016,R,139,67209615,History
+2267998,Gone Girl,2014,R,149,167767189,Drama
+2267998,Gone Girl,2014,R,149,167767189,Mystery
+2267998,Gone Girl,2014,R,149,167767189,Thriller
+2278388,The Grand Budapest Hotel,2014,R,99,59301324,Adventure
+2278388,The Grand Budapest Hotel,2014,R,99,59301324,Comedy
+2278388,The Grand Budapest Hotel,2014,R,99,59301324,Crime
+2380307,Coco,2017,PG,105,210460015,Animation
+2380307,Coco,2017,PG,105,210460015,Adventure
+2380307,Coco,2017,PG,105,210460015,Comedy
+2582802,Whiplash,2014,R,106,13092000,Drama
+2582802,Whiplash,2014,R,106,13092000,Music
+3011894,Wild Tales,2014,R,122,3106530,Comedy
+3011894,Wild Tales,2014,R,122,3106530,Drama
+3011894,Wild Tales,2014,R,122,3106530,Thriller
+3170832,Room,2015,R,118,14677654,Drama
+3170832,Room,2015,R,118,14677654,Thriller
+3315342,Logan,2017,R,137,226277068,Action
+3315342,Logan,2017,R,137,226277068,Drama
+3315342,Logan,2017,R,137,226277068,Sci-Fi
+4016934,The Handmaiden,2016,Unrated,145,2006788,Drama
+4016934,The Handmaiden,2016,Unrated,145,2006788,Romance
+4016934,The Handmaiden,2016,Unrated,145,2006788,Thriller
+4154756,Avengers: Infinity War,2018,PG-13,149,678815482,Action
+4154756,Avengers: Infinity War,2018,PG-13,149,678815482,Adventure
+4154756,Avengers: Infinity War,2018,PG-13,149,678815482,Sci-Fi
+4154796,Avengers: Endgame,2019,PG-13,181,858373000,Action
+4154796,Avengers: Endgame,2019,PG-13,181,858373000,Adventure
+4154796,Avengers: Endgame,2019,PG-13,181,858373000,Drama
+4633694,Spider-Man: Into the Spider-Verse,2018,PG,117,190241310,Animation
+4633694,Spider-Man: Into the Spider-Verse,2018,PG,117,190241310,Action
+4633694,Spider-Man: Into the Spider-Verse,2018,PG,117,190241310,Adventure
+4729430,Klaus,2019,PG,96,,Animation
+4729430,Klaus,2019,PG,96,,Adventure
+4729430,Klaus,2019,PG,96,,Comedy
+5027774,"Three Billboards Outside Ebbing, Missouri",2017,R,115,54513740,Comedy
+5027774,"Three Billboards Outside Ebbing, Missouri",2017,R,115,54513740,Crime
+5027774,"Three Billboards Outside Ebbing, Missouri",2017,R,115,54513740,Drama
+5074352,Dangal,2016,Unrated,161,12391761,Action
+5074352,Dangal,2016,Unrated,161,12391761,Biography
+5074352,Dangal,2016,Unrated,161,12391761,Drama
+5311514,Your Name.,2016,TV-PG,106,5017246,Animation
+5311514,Your Name.,2016,TV-PG,106,5017246,Drama
+5311514,Your Name.,2016,TV-PG,106,5017246,Fantasy
+6751668,Parasite,2019,R,132,53369749,Drama
+6751668,Parasite,2019,R,132,53369749,Thriller
+6791350,Guardians of the Galaxy Vol. 3,2023,PG-13,150,168401178,Action
+6791350,Guardians of the Galaxy Vol. 3,2023,PG-13,150,168401178,Adventure
+6791350,Guardians of the Galaxy Vol. 3,2023,PG-13,150,168401178,Comedy
+6966692,Green Book,2018,PG-13,130,85080171,Biography
+6966692,Green Book,2018,PG-13,130,85080171,Comedy
+6966692,Green Book,2018,PG-13,130,85080171,Drama
+7286456,Joker,2019,R,122,335477657,Crime
+7286456,Joker,2019,R,122,335477657,Drama
+7286456,Joker,2019,R,122,335477657,Thriller
+8267604,Capernaum,2018,R,126,1661096,Drama
+8503618,Hamilton,2020,PG-13,160,,Biography
+8503618,Hamilton,2020,PG-13,160,,Drama
+8503618,Hamilton,2020,PG-13,160,,History
+8579674,1917,2019,R,119,159227644,Action
+8579674,1917,2019,R,119,159227644,Drama
+8579674,1917,2019,R,119,159227644,War
+

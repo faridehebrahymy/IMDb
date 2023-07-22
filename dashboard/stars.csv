@@ -1,0 +1,751 @@
+movie_id,Title,Year,ParentalGuide,Runtime,gross_us_canada,Star
+0111161,The Shawshank Redemption,1994,R,142,28767189,Tim Robbins
+0111161,The Shawshank Redemption,1994,R,142,28767189,Morgan Freeman
+0111161,The Shawshank Redemption,1994,R,142,28767189,Bob Gunton
+0068646,The Godfather,1972,R,175,136381073,Marlon Brando
+0068646,The Godfather,1972,R,175,136381073,Al Pacino
+0068646,The Godfather,1972,R,175,136381073,James Caan
+0468569,The Dark Knight,2008,PG-13,152,534987076,Christian Bale
+0468569,The Dark Knight,2008,PG-13,152,534987076,Heath Ledger
+0468569,The Dark Knight,2008,PG-13,152,534987076,Aaron Eckhart
+0071562,The Godfather Part II,1974,R,202,47834595,Al Pacino
+0071562,The Godfather Part II,1974,R,202,47834595,Robert De Niro
+0071562,The Godfather Part II,1974,R,202,47834595,Robert Duvall
+0050083,12 Angry Men,1957,Approved,96,,Henry Fonda
+0050083,12 Angry Men,1957,Approved,96,,Lee J. Cobb
+0050083,12 Angry Men,1957,Approved,96,,Martin Balsam
+0108052,Schindler's List,1993,R,195,96898818,Liam Neeson
+0108052,Schindler's List,1993,R,195,96898818,Ralph Fiennes
+0108052,Schindler's List,1993,R,195,96898818,Ben Kingsley
+0167260,The Lord of the Rings: The Return of the King,2003,PG-13,201,379427292,Elijah Wood
+0167260,The Lord of the Rings: The Return of the King,2003,PG-13,201,379427292,Viggo Mortensen
+0167260,The Lord of the Rings: The Return of the King,2003,PG-13,201,379427292,Ian McKellen
+0110912,Pulp Fiction,1994,R,154,107928762,John Travolta
+0110912,Pulp Fiction,1994,R,154,107928762,Uma Thurman
+0110912,Pulp Fiction,1994,R,154,107928762,Samuel L. Jackson
+0120737,The Lord of the Rings: The Fellowship of the Ring,2001,PG-13,178,316115420,Elijah Wood
+0120737,The Lord of the Rings: The Fellowship of the Ring,2001,PG-13,178,316115420,Ian McKellen
+0120737,The Lord of the Rings: The Fellowship of the Ring,2001,PG-13,178,316115420,Orlando Bloom
+0060196,"The Good, the Bad and the Ugly",1966,Approved,178,25100000,Clint Eastwood
+0060196,"The Good, the Bad and the Ugly",1966,Approved,178,25100000,Eli Wallach
+0060196,"The Good, the Bad and the Ugly",1966,Approved,178,25100000,Lee Van Cleef
+0109830,Forrest Gump,1994,PG-13,142,330455270,Tom Hanks
+0109830,Forrest Gump,1994,PG-13,142,330455270,Robin Wright
+0109830,Forrest Gump,1994,PG-13,142,330455270,Gary Sinise
+0137523,Fight Club,1999,R,139,37030102,Brad Pitt
+0137523,Fight Club,1999,R,139,37030102,Edward Norton
+0137523,Fight Club,1999,R,139,37030102,Meat Loaf
+0167261,The Lord of the Rings: The Two Towers,2002,PG-13,179,342952511,Elijah Wood
+0167261,The Lord of the Rings: The Two Towers,2002,PG-13,179,342952511,Ian McKellen
+0167261,The Lord of the Rings: The Two Towers,2002,PG-13,179,342952511,Viggo Mortensen
+1375666,Inception,2010,PG-13,148,292587330,Leonardo DiCaprio
+1375666,Inception,2010,PG-13,148,292587330,Joseph Gordon-Levitt
+1375666,Inception,2010,PG-13,148,292587330,Elliot Page
+0080684,Star Wars: Episode V - The Empire Strikes Back,1980,PG,124,292753960,Mark Hamill
+0080684,Star Wars: Episode V - The Empire Strikes Back,1980,PG,124,292753960,Harrison Ford
+0080684,Star Wars: Episode V - The Empire Strikes Back,1980,PG,124,292753960,Carrie Fisher
+0133093,The Matrix,1999,R,136,172076928,Keanu Reeves
+0133093,The Matrix,1999,R,136,172076928,Laurence Fishburne
+0133093,The Matrix,1999,R,136,172076928,Carrie-Anne Moss
+0099685,Goodfellas,1990,R,145,46909721,Robert De Niro
+0099685,Goodfellas,1990,R,145,46909721,Ray Liotta
+0099685,Goodfellas,1990,R,145,46909721,Joe Pesci
+0073486,One Flew Over the Cuckoo's Nest,1975,R,133,108981275,Jack Nicholson
+0073486,One Flew Over the Cuckoo's Nest,1975,R,133,108981275,Louise Fletcher
+0073486,One Flew Over the Cuckoo's Nest,1975,R,133,108981275,Michael Berryman
+0114369,Se7en,1995,R,127,100125643,Morgan Freeman
+0114369,Se7en,1995,R,127,100125643,Brad Pitt
+0114369,Se7en,1995,R,127,100125643,Kevin Spacey
+0038650,It's a Wonderful Life,1946,PG,130,1483643,James Stewart
+0038650,It's a Wonderful Life,1946,PG,130,1483643,Donna Reed
+0038650,It's a Wonderful Life,1946,PG,130,1483643,Lionel Barrymore
+0047478,Seven Samurai,1954,Unrated,207,318649,Toshirô Mifune
+0047478,Seven Samurai,1954,Unrated,207,318649,Takashi Shimura
+0047478,Seven Samurai,1954,Unrated,207,318649,Keiko Tsushima
+0102926,The Silence of the Lambs,1991,R,118,130742922,Jodie Foster
+0102926,The Silence of the Lambs,1991,R,118,130742922,Anthony Hopkins
+0102926,The Silence of the Lambs,1991,R,118,130742922,Lawrence A. Bonney
+0120815,Saving Private Ryan,1998,R,169,217049603,Tom Hanks
+0120815,Saving Private Ryan,1998,R,169,217049603,Matt Damon
+0120815,Saving Private Ryan,1998,R,169,217049603,Tom Sizemore
+0317248,City of God,2002,R,130,7564459,Alexandre Rodrigues
+0317248,City of God,2002,R,130,7564459,Leandro Firmino
+0317248,City of God,2002,R,130,7564459,Matheus Nachtergaele
+0816692,Interstellar,2014,PG-13,169,188020017,Matthew McConaughey
+0816692,Interstellar,2014,PG-13,169,188020017,Anne Hathaway
+0816692,Interstellar,2014,PG-13,169,188020017,Jessica Chastain
+0118799,Life Is Beautiful,1997,PG-13,116,57563264,Roberto Benigni
+0118799,Life Is Beautiful,1997,PG-13,116,57563264,Nicoletta Braschi
+0118799,Life Is Beautiful,1997,PG-13,116,57563264,Giorgio Cantarini
+0120689,The Green Mile,1999,R,189,136801374,Tom Hanks
+0120689,The Green Mile,1999,R,189,136801374,Michael Clarke Duncan
+0120689,The Green Mile,1999,R,189,136801374,David Morse
+0076759,Star Wars: Episode IV - A New Hope,1977,PG,121,460998507,Mark Hamill
+0076759,Star Wars: Episode IV - A New Hope,1977,PG,121,460998507,Harrison Ford
+0076759,Star Wars: Episode IV - A New Hope,1977,PG,121,460998507,Carrie Fisher
+0103064,Terminator 2: Judgment Day,1991,R,137,205881154,Arnold Schwarzenegger
+0103064,Terminator 2: Judgment Day,1991,R,137,205881154,Linda Hamilton
+0103064,Terminator 2: Judgment Day,1991,R,137,205881154,Edward Furlong
+0088763,Back to the Future,1985,PG,116,212836762,Michael J. Fox
+0088763,Back to the Future,1985,PG,116,212836762,Christopher Lloyd
+0088763,Back to the Future,1985,PG,116,212836762,Lea Thompson
+0245429,Spirited Away,2001,PG,125,15205725,Daveigh Chase
+0245429,Spirited Away,2001,PG,125,15205725,Suzanne Pleshette
+0245429,Spirited Away,2001,PG,125,15205725,Miyu Irino
+0253474,The Pianist,2002,R,150,32572577,Adrien Brody
+0253474,The Pianist,2002,R,150,32572577,Thomas Kretschmann
+0253474,The Pianist,2002,R,150,32572577,Frank Finlay
+0054215,Psycho,1960,R,109,32000000,Anthony Perkins
+0054215,Psycho,1960,R,109,32000000,Janet Leigh
+0054215,Psycho,1960,R,109,32000000,Vera Miles
+6751668,Parasite,2019,R,132,53369749,Song Kang-ho
+6751668,Parasite,2019,R,132,53369749,Lee Sun-kyun
+6751668,Parasite,2019,R,132,53369749,Cho Yeo-jeong
+0110413,Léon: The Professional,1994,R,110,19501238,Jean Reno
+0110413,Léon: The Professional,1994,R,110,19501238,Gary Oldman
+0110413,Léon: The Professional,1994,R,110,19501238,Natalie Portman
+0172495,Gladiator,2000,R,155,187705427,Russell Crowe
+0172495,Gladiator,2000,R,155,187705427,Joaquin Phoenix
+0172495,Gladiator,2000,R,155,187705427,Connie Nielsen
+0110357,The Lion King,1994,G,88,422783777,Matthew Broderick
+0110357,The Lion King,1994,G,88,422783777,Jeremy Irons
+0110357,The Lion King,1994,G,88,422783777,James Earl Jones
+0120586,American History X,1998,R,119,6719864,Edward Norton
+0120586,American History X,1998,R,119,6719864,Edward Furlong
+0120586,American History X,1998,R,119,6719864,Beverly D'Angelo
+0407887,The Departed,2006,R,151,132399394,Leonardo DiCaprio
+0407887,The Departed,2006,R,151,132399394,Matt Damon
+0407887,The Departed,2006,R,151,132399394,Jack Nicholson
+2582802,Whiplash,2014,R,106,13092000,Miles Teller
+2582802,Whiplash,2014,R,106,13092000,J.K. Simmons
+2582802,Whiplash,2014,R,106,13092000,Melissa Benoist
+0482571,The Prestige,2006,PG-13,130,53089891,Christian Bale
+0482571,The Prestige,2006,PG-13,130,53089891,Hugh Jackman
+0482571,The Prestige,2006,PG-13,130,53089891,Scarlett Johansson
+0114814,The Usual Suspects,1995,R,106,23341568,Kevin Spacey
+0114814,The Usual Suspects,1995,R,106,23341568,Gabriel Byrne
+0114814,The Usual Suspects,1995,R,106,23341568,Chazz Palminteri
+0034583,Casablanca,1942,PG,102,4219709,Humphrey Bogart
+0034583,Casablanca,1942,PG,102,4219709,Ingrid Bergman
+0034583,Casablanca,1942,PG,102,4219709,Paul Henreid
+0095327,Grave of the Fireflies,1988,Unrated,89,516962,Tsutomu Tatsumi
+0095327,Grave of the Fireflies,1988,Unrated,89,516962,Ayano Shiraishi
+0095327,Grave of the Fireflies,1988,Unrated,89,516962,Akemi Yamaguchi
+0056058,Harakiri,1962,Unrated,133,,Tatsuya Nakadai
+0056058,Harakiri,1962,Unrated,133,,Akira Ishihama
+0056058,Harakiri,1962,Unrated,133,,Shima Iwashita
+1675434,The Intouchables,2011,R,112,10198820,François Cluzet
+1675434,The Intouchables,2011,R,112,10198820,Omar Sy
+1675434,The Intouchables,2011,R,112,10198820,Anne Le Ny
+0027977,Modern Times,1936,G,87,163577,Charles Chaplin
+0027977,Modern Times,1936,G,87,163577,Paulette Goddard
+0027977,Modern Times,1936,G,87,163577,Henry Bergman
+0064116,Once Upon a Time in the West,1968,PG-13,165,5321508,Henry Fonda
+0064116,Once Upon a Time in the West,1968,PG-13,165,5321508,Charles Bronson
+0064116,Once Upon a Time in the West,1968,PG-13,165,5321508,Claudia Cardinale
+0095765,Cinema Paradiso,1988,PG,155,12397210,Philippe Noiret
+0095765,Cinema Paradiso,1988,PG,155,12397210,Enzo Cannavale
+0095765,Cinema Paradiso,1988,PG,155,12397210,Antonella Attili
+0047396,Rear Window,1954,PG,112,36764313,James Stewart
+0047396,Rear Window,1954,PG,112,36764313,Grace Kelly
+0047396,Rear Window,1954,PG,112,36764313,Wendell Corey
+0078748,Alien,1979,R,117,81900459,Sigourney Weaver
+0078748,Alien,1979,R,117,81900459,Tom Skerritt
+0078748,Alien,1979,R,117,81900459,John Hurt
+0021749,City Lights,1931,G,87,19181,Charles Chaplin
+0021749,City Lights,1931,G,87,19181,Virginia Cherrill
+0021749,City Lights,1931,G,87,19181,Florence Lee
+0078788,Apocalypse Now,1979,R,147,96042913,Martin Sheen
+0078788,Apocalypse Now,1979,R,147,96042913,Marlon Brando
+0078788,Apocalypse Now,1979,R,147,96042913,Robert Duvall
+0209144,Memento,2000,R,113,25544867,Guy Pearce
+0209144,Memento,2000,R,113,25544867,Carrie-Anne Moss
+0209144,Memento,2000,R,113,25544867,Joe Pantoliano
+1853728,Django Unchained,2012,R,165,162805434,Jamie Foxx
+1853728,Django Unchained,2012,R,165,162805434,Christoph Waltz
+1853728,Django Unchained,2012,R,165,162805434,Leonardo DiCaprio
+0082971,Indiana Jones and the Raiders of the Lost Ark,1981,PG,115,248159971,Harrison Ford
+0082971,Indiana Jones and the Raiders of the Lost Ark,1981,PG,115,248159971,Karen Allen
+0082971,Indiana Jones and the Raiders of the Lost Ark,1981,PG,115,248159971,Paul Freeman
+0910970,WALL·E,2008,G,98,223808164,Ben Burtt
+0910970,WALL·E,2008,G,98,223808164,Elissa Knight
+0910970,WALL·E,2008,G,98,223808164,Jeff Garlin
+0405094,The Lives of Others,2006,R,137,11286112,Ulrich Mühe
+0405094,The Lives of Others,2006,R,137,11286112,Martina Gedeck
+0405094,The Lives of Others,2006,R,137,11286112,Sebastian Koch
+0043014,Sunset Blvd.,1950,Passed,110,299645,William Holden
+0043014,Sunset Blvd.,1950,Passed,110,299645,Gloria Swanson
+0043014,Sunset Blvd.,1950,Passed,110,299645,Erich von Stroheim
+0050825,Paths of Glory,1957,Approved,88,,Kirk Douglas
+0050825,Paths of Glory,1957,Approved,88,,Ralph Meeker
+0050825,Paths of Glory,1957,Approved,88,,Adolphe Menjou
+0081505,The Shining,1980,R,146,45634352,Jack Nicholson
+0081505,The Shining,1980,R,146,45634352,Shelley Duvall
+0081505,The Shining,1980,R,146,45634352,Danny Lloyd
+0032553,The Great Dictator,1940,G,125,,Charles Chaplin
+0032553,The Great Dictator,1940,G,125,,Paulette Goddard
+0032553,The Great Dictator,1940,G,125,,Jack Oakie
+4154756,Avengers: Infinity War,2018,PG-13,149,678815482,Robert Downey Jr.
+4154756,Avengers: Infinity War,2018,PG-13,149,678815482,Chris Hemsworth
+4154756,Avengers: Infinity War,2018,PG-13,149,678815482,Mark Ruffalo
+0051201,Witness for the Prosecution,1957,Approved,116,,Tyrone Power
+0051201,Witness for the Prosecution,1957,Approved,116,,Marlene Dietrich
+0051201,Witness for the Prosecution,1957,Approved,116,,Charles Laughton
+0090605,Aliens,1986,R,137,85160248,Sigourney Weaver
+0090605,Aliens,1986,R,137,85160248,Michael Biehn
+0090605,Aliens,1986,R,137,85160248,Carrie Henn
+4633694,Spider-Man: Into the Spider-Verse,2018,PG,117,190241310,Shameik Moore
+4633694,Spider-Man: Into the Spider-Verse,2018,PG,117,190241310,Jake Johnson
+4633694,Spider-Man: Into the Spider-Verse,2018,PG,117,190241310,Hailee Steinfeld
+0169547,American Beauty,1999,R,122,130096601,Kevin Spacey
+0169547,American Beauty,1999,R,122,130096601,Annette Bening
+0169547,American Beauty,1999,R,122,130096601,Thora Birch
+0057012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,PG,95,9440272,Peter Sellers
+0057012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,PG,95,9440272,George C. Scott
+0057012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,PG,95,9440272,Sterling Hayden
+1345836,The Dark Knight Rises,2012,PG-13,164,448149584,Christian Bale
+1345836,The Dark Knight Rises,2012,PG-13,164,448149584,Tom Hardy
+1345836,The Dark Knight Rises,2012,PG-13,164,448149584,Anne Hathaway
+0361748,Inglourious Basterds,2009,R,153,120540719,Brad Pitt
+0361748,Inglourious Basterds,2009,R,153,120540719,Diane Kruger
+0361748,Inglourious Basterds,2009,R,153,120540719,Eli Roth
+0364569,Oldboy,2003,R,120,707481,Choi Min-sik
+0364569,Oldboy,2003,R,120,707481,Yoo Ji-tae
+0364569,Oldboy,2003,R,120,707481,Kang Hye-jeong
+0086879,Amadeus,1984,PG,160,51973029,F. Murray Abraham
+0086879,Amadeus,1984,PG,160,51973029,Tom Hulce
+0086879,Amadeus,1984,PG,160,51973029,Elizabeth Berridge
+2380307,Coco,2017,PG,105,210460015,Anthony Gonzalez
+2380307,Coco,2017,PG,105,210460015,Gael García Bernal
+2380307,Coco,2017,PG,105,210460015,Benjamin Bratt
+0114709,Toy Story,1995,G,81,223225679,Tom Hanks
+0114709,Toy Story,1995,G,81,223225679,Tim Allen
+0114709,Toy Story,1995,G,81,223225679,Don Rickles
+0112573,Braveheart,1995,R,178,75609945,Mel Gibson
+0112573,Braveheart,1995,R,178,75609945,Sophie Marceau
+0112573,Braveheart,1995,R,178,75609945,Patrick McGoohan
+7286456,Joker,2019,R,122,335477657,Joaquin Phoenix
+7286456,Joker,2019,R,122,335477657,Robert De Niro
+7286456,Joker,2019,R,122,335477657,Zazie Beetz
+0082096,Das Boot,1981,Unrated,149,11487676,Jürgen Prochnow
+0082096,Das Boot,1981,Unrated,149,11487676,Herbert Grönemeyer
+0082096,Das Boot,1981,Unrated,149,11487676,Klaus Wennemann
+4154796,Avengers: Endgame,2019,PG-13,181,858373000,Robert Downey Jr.
+4154796,Avengers: Endgame,2019,PG-13,181,858373000,Chris Evans
+4154796,Avengers: Endgame,2019,PG-13,181,858373000,Mark Ruffalo
+0119698,Princess Mononoke,1997,PG-13,134,4845631,Yôji Matsuda
+0119698,Princess Mononoke,1997,PG-13,134,4845631,Yuriko Ishida
+0119698,Princess Mononoke,1997,PG-13,134,4845631,Yûko Tanaka
+0119217,Good Will Hunting,1997,R,126,138433435,Robin Williams
+0119217,Good Will Hunting,1997,R,126,138433435,Matt Damon
+0119217,Good Will Hunting,1997,R,126,138433435,Ben Affleck
+0087843,Once Upon a Time in America,1984,R,229,5321508,Robert De Niro
+0087843,Once Upon a Time in America,1984,R,229,5321508,James Woods
+0087843,Once Upon a Time in America,1984,R,229,5321508,Elizabeth McGovern
+5311514,Your Name.,2016,TV-PG,106,5017246,Ryunosuke Kamiki
+5311514,Your Name.,2016,TV-PG,106,5017246,Mone Kamishiraishi
+5311514,Your Name.,2016,TV-PG,106,5017246,Ryo Narita
+0045152,Singin' in the Rain,1952,G,103,1884537,Gene Kelly
+0045152,Singin' in the Rain,1952,G,103,1884537,Donald O'Connor
+0045152,Singin' in the Rain,1952,G,103,1884537,Debbie Reynolds
+1187043,3 Idiots,2009,PG-13,170,6532874,Aamir Khan
+1187043,3 Idiots,2009,PG-13,170,6532874,Madhavan
+1187043,3 Idiots,2009,PG-13,170,6532874,Mona Singh
+0180093,Requiem for a Dream,2000,Unrated,102,3635482,Ellen Burstyn
+0180093,Requiem for a Dream,2000,Unrated,102,3635482,Jared Leto
+0180093,Requiem for a Dream,2000,Unrated,102,3635482,Jennifer Connelly
+0057565,High and Low,1963,Unrated,143,46808,Toshirô Mifune
+0057565,High and Low,1963,Unrated,143,46808,Yutaka Sada
+0057565,High and Low,1963,Unrated,143,46808,Tatsuya Nakadai
+0435761,Toy Story 3,2010,G,103,415004880,Tom Hanks
+0435761,Toy Story 3,2010,G,103,415004880,Tim Allen
+0435761,Toy Story 3,2010,G,103,415004880,Joan Cusack
+8267604,Capernaum,2018,R,126,1661096,Zain Al Rafeea
+8267604,Capernaum,2018,R,126,1661096,Yordanos Shiferaw
+8267604,Capernaum,2018,R,126,1661096,Boluwatife Treasure Bankole
+0086190,Star Wars: Episode VI - Return of the Jedi,1983,PG,131,316566101,Mark Hamill
+0086190,Star Wars: Episode VI - Return of the Jedi,1983,PG,131,316566101,Harrison Ford
+0086190,Star Wars: Episode VI - Return of the Jedi,1983,PG,131,316566101,Carrie Fisher
+0062622,2001: A Space Odyssey,1968,G,149,60481243,Keir Dullea
+0062622,2001: A Space Odyssey,1968,G,149,60481243,Gary Lockwood
+0062622,2001: A Space Odyssey,1968,G,149,60481243,William Sylvester
+0338013,Eternal Sunshine of the Spotless Mind,2004,R,108,34400301,Jim Carrey
+0338013,Eternal Sunshine of the Spotless Mind,2004,R,108,34400301,Kate Winslet
+0338013,Eternal Sunshine of the Spotless Mind,2004,R,108,34400301,Tom Wilkinson
+0091251,Come and See,1985,Unrated,142,71909,Aleksey Kravchenko
+0091251,Come and See,1985,Unrated,142,71909,Olga Mironova
+0091251,Come and See,1985,Unrated,142,71909,Liubomiras Laucevicius
+0105236,Reservoir Dogs,1992,R,99,2832029,Harvey Keitel
+0105236,Reservoir Dogs,1992,R,99,2832029,Tim Roth
+0105236,Reservoir Dogs,1992,R,99,2832029,Michael Madsen
+2106476,The Hunt,2012,R,115,613308,Mads Mikkelsen
+2106476,The Hunt,2012,R,115,613308,Thomas Bo Larsen
+2106476,The Hunt,2012,R,115,613308,Annika Wedderkopp
+0056172,Lawrence of Arabia,1962,Approved,218,45306425,Peter O'Toole
+0056172,Lawrence of Arabia,1962,Approved,218,45306425,Alec Guinness
+0056172,Lawrence of Arabia,1962,Approved,218,45306425,Anthony Quinn
+0033467,Citizen Kane,1941,PG,119,1627530,Orson Welles
+0033467,Citizen Kane,1941,PG,119,1627530,Joseph Cotten
+0033467,Citizen Kane,1941,PG,119,1627530,Dorothy Comingore
+0022100,M,1931,Passed,99,35566,Peter Lorre
+0022100,M,1931,Passed,99,35566,Ellen Widmann
+0022100,M,1931,Passed,99,35566,Inge Landgut
+0044741,Ikiru,1952,Unrated,143,60239,Takashi Shimura
+0044741,Ikiru,1952,Unrated,143,60239,Nobuo Kaneko
+0044741,Ikiru,1952,Unrated,143,60239,Shin'ichi Himori
+0053125,North by Northwest,1959,Approved,136,66728,Cary Grant
+0053125,North by Northwest,1959,Approved,136,66728,Eva Marie Saint
+0053125,North by Northwest,1959,Approved,136,66728,James Mason
+0052357,Vertigo,1958,PG,128,7705225,James Stewart
+0052357,Vertigo,1958,PG,128,7705225,Kim Novak
+0052357,Vertigo,1958,PG,128,7705225,Barbara Bel Geddes
+0053604,The Apartment,1960,Approved,125,18600000,Jack Lemmon
+0053604,The Apartment,1960,Approved,125,18600000,Shirley MacLaine
+0053604,The Apartment,1960,Approved,125,18600000,Fred MacMurray
+0211915,Amélie,2001,R,122,33225499,Audrey Tautou
+0211915,Amélie,2001,R,122,33225499,Mathieu Kassovitz
+0211915,Amélie,2001,R,122,33225499,Rufus
+0036775,Double Indemnity,1944,Passed,107,,Fred MacMurray
+0036775,Double Indemnity,1944,Passed,107,,Barbara Stanwyck
+0036775,Double Indemnity,1944,Passed,107,,Edward G. Robinson
+0066921,A Clockwork Orange,1971,X,136,26617553,Malcolm McDowell
+0066921,A Clockwork Orange,1971,X,136,26617553,Patrick Magee
+0066921,A Clockwork Orange,1971,X,136,26617553,Michael Bates
+0093058,Full Metal Jacket,1987,R,116,46357676,Matthew Modine
+0093058,Full Metal Jacket,1987,R,116,46357676,R. Lee Ermey
+0093058,Full Metal Jacket,1987,R,116,46357676,Vincent D'Onofrio
+0086250,Scarface,1983,R,170,45408703,Al Pacino
+0086250,Scarface,1983,R,170,45408703,Michelle Pfeiffer
+0086250,Scarface,1983,R,170,45408703,Steven Bauer
+1255953,Incendies,2010,R,131,2071334,Lubna Azabal
+1255953,Incendies,2010,R,131,2071334,Mélissa Désormeaux-Poulin
+1255953,Incendies,2010,R,131,2071334,Maxim Gaudette
+8503618,Hamilton,2020,PG-13,160,,Lin-Manuel Miranda
+8503618,Hamilton,2020,PG-13,160,,Phillipa Soo
+8503618,Hamilton,2020,PG-13,160,,Leslie Odom Jr.
+0113277,Heat,1995,R,170,67436818,Al Pacino
+0113277,Heat,1995,R,170,67436818,Robert De Niro
+0113277,Heat,1995,R,170,67436818,Val Kilmer
+1049413,Up,2009,PG,96,293004164,Edward Asner
+1049413,Up,2009,PG,96,293004164,Jordan Nagai
+1049413,Up,2009,PG,96,293004164,John Ratzenberger
+0056592,To Kill a Mockingbird,1962,Approved,129,592237,Gregory Peck
+0056592,To Kill a Mockingbird,1962,Approved,129,592237,John Megna
+0056592,To Kill a Mockingbird,1962,Approved,129,592237,Frank Overton
+0070735,The Sting,1973,PG,129,156000000,Paul Newman
+0070735,The Sting,1973,PG,129,156000000,Robert Redford
+0070735,The Sting,1973,PG,129,156000000,Robert Shaw
+1832382,A Separation,2011,PG-13,123,7099055,Payman Maadi
+1832382,A Separation,2011,PG-13,123,7099055,Leila Hatami
+1832382,A Separation,2011,PG-13,123,7099055,Sareh Bayat
+0017136,Metropolis,1927,Unrated,153,1236166,Brigitte Helm
+0017136,Metropolis,1927,Unrated,153,1236166,Alfred Abel
+0017136,Metropolis,1927,Unrated,153,1236166,Gustav Fröhlich
+0095016,Die Hard,1988,R,132,83844093,Bruce Willis
+0095016,Die Hard,1988,R,132,83844093,Alan Rickman
+0095016,Die Hard,1988,R,132,83844093,Bonnie Bedelia
+0119488,L.A. Confidential,1997,R,138,64616940,Kevin Spacey
+0119488,L.A. Confidential,1997,R,138,64616940,Russell Crowe
+0119488,L.A. Confidential,1997,R,138,64616940,Guy Pearce
+0075314,Taxi Driver,1976,R,114,28262574,Robert De Niro
+0075314,Taxi Driver,1976,R,114,28262574,Jodie Foster
+0075314,Taxi Driver,1976,R,114,28262574,Cybill Shepherd
+0097576,Indiana Jones and the Last Crusade,1989,PG-13,127,197171806,Harrison Ford
+0097576,Indiana Jones and the Last Crusade,1989,PG-13,127,197171806,Sean Connery
+0097576,Indiana Jones and the Last Crusade,1989,PG-13,127,197171806,Alison Doody
+0208092,Snatch,2000,R,102,30328156,Jason Statham
+0208092,Snatch,2000,R,102,30328156,Brad Pitt
+0208092,Snatch,2000,R,102,30328156,Stephen Graham
+0040522,Bicycle Thieves,1948,Unrated,89,371111,Lamberto Maggiorani
+0040522,Bicycle Thieves,1948,Unrated,89,371111,Enzo Staiola
+0040522,Bicycle Thieves,1948,Unrated,89,371111,Lianella Carell
+0986264,Like Stars on Earth,2007,PG,165,1223869,Darsheel Safary
+0986264,Like Stars on Earth,2007,PG,165,1223869,Aamir Khan
+0986264,Like Stars on Earth,2007,PG,165,1223869,Tanay Chheda
+8579674,1917,2019,R,119,159227644,Dean-Charles Chapman
+8579674,1917,2019,R,119,159227644,George MacKay
+8579674,1917,2019,R,119,159227644,Daniel Mays
+1745960,Top Gun: Maverick,2022,PG-13,130,718732821,Tom Cruise
+1745960,Top Gun: Maverick,2022,PG-13,130,718732821,Jennifer Connelly
+1745960,Top Gun: Maverick,2022,PG-13,130,718732821,Miles Teller
+0363163,Downfall,2004,R,156,5509040,Bruno Ganz
+0363163,Downfall,2004,R,156,5509040,Alexandra Maria Lara
+0363163,Downfall,2004,R,156,5509040,Ulrich Matthes
+5074352,Dangal,2016,Unrated,161,12391761,Aamir Khan
+5074352,Dangal,2016,Unrated,161,12391761,Sakshi Tanwar
+5074352,Dangal,2016,Unrated,161,12391761,Fatima Sana Shaikh
+0059578,For a Few Dollars More,1965,R,132,15000000,Clint Eastwood
+0059578,For a Few Dollars More,1965,R,132,15000000,Lee Van Cleef
+0059578,For a Few Dollars More,1965,R,132,15000000,Gian Maria Volontè
+0372784,Batman Begins,2005,PG-13,140,206863479,Christian Bale
+0372784,Batman Begins,2005,PG-13,140,206863479,Michael Caine
+0372784,Batman Begins,2005,PG-13,140,206863479,Ken Watanabe
+0012349,The Kid,1921,Passed,68,,Charles Chaplin
+0012349,The Kid,1921,Passed,68,,Edna Purviance
+0012349,The Kid,1921,Passed,68,,Jackie Coogan
+0053291,Some Like It Hot,1959,Passed,121,,Marilyn Monroe
+0053291,Some Like It Hot,1959,Passed,121,,Tony Curtis
+0053291,Some Like It Hot,1959,Passed,121,,Jack Lemmon
+10272386,The Father,2020,PG-13,97,2122771,Anthony Hopkins
+10272386,The Father,2020,PG-13,97,2122771,Olivia Colman
+10272386,The Father,2020,PG-13,97,2122771,Mark Gatiss
+0042192,All About Eve,1950,Passed,138,63463,Bette Davis
+0042192,All About Eve,1950,Passed,138,63463,Anne Baxter
+0042192,All About Eve,1950,Passed,138,63463,George Sanders
+0993846,The Wolf of Wall Street,2013,R,180,116900694,Leonardo DiCaprio
+0993846,The Wolf of Wall Street,2013,R,180,116900694,Jonah Hill
+0993846,The Wolf of Wall Street,2013,R,180,116900694,Margot Robbie
+6966692,Green Book,2018,PG-13,130,85080171,Viggo Mortensen
+6966692,Green Book,2018,PG-13,130,85080171,Mahershala Ali
+6966692,Green Book,2018,PG-13,130,85080171,Linda Cardellini
+0055031,Judgment at Nuremberg,1961,Approved,179,,Spencer Tracy
+0055031,Judgment at Nuremberg,1961,Approved,179,,Burt Lancaster
+0055031,Judgment at Nuremberg,1961,Approved,179,,Richard Widmark
+6791350,Guardians of the Galaxy Vol. 3,2023,PG-13,150,168401178,Chris Pratt
+6791350,Guardians of the Galaxy Vol. 3,2023,PG-13,150,168401178,Chukwudi Iwuji
+6791350,Guardians of the Galaxy Vol. 3,2023,PG-13,150,168401178,Bradley Cooper
+0089881,Ran,1985,R,162,4135750,Tatsuya Nakadai
+0089881,Ran,1985,R,162,4135750,Akira Terao
+0089881,Ran,1985,R,162,4135750,Jinpachi Nezu
+0112641,Casino,1995,R,178,42512375,Robert De Niro
+0112641,Casino,1995,R,178,42512375,Sharon Stone
+0112641,Casino,1995,R,178,42512375,Joe Pesci
+0120382,The Truman Show,1998,PG,103,125618201,Jim Carrey
+0120382,The Truman Show,1998,PG,103,125618201,Ed Harris
+0120382,The Truman Show,1998,PG,103,125618201,Laura Linney
+0469494,There Will Be Blood,2007,R,158,40222514,Daniel Day-Lewis
+0469494,There Will Be Blood,2007,R,158,40222514,Paul Dano
+0469494,There Will Be Blood,2007,R,158,40222514,Ciarán Hinds
+0457430,Pan's Labyrinth,2006,R,118,37646380,Ivana Baquero
+0457430,Pan's Labyrinth,2006,R,118,37646380,Ariadna Gil
+0457430,Pan's Labyrinth,2006,R,118,37646380,Sergi López
+0105695,Unforgiven,1992,R,130,101167799,Clint Eastwood
+0105695,Unforgiven,1992,R,130,101167799,Gene Hackman
+0105695,Unforgiven,1992,R,130,101167799,Morgan Freeman
+1130884,Shutter Island,2010,R,138,128012934,Leonardo DiCaprio
+1130884,Shutter Island,2010,R,138,128012934,Emily Mortimer
+1130884,Shutter Island,2010,R,138,128012934,Mark Ruffalo
+0167404,The Sixth Sense,1999,PG-13,107,293506292,Bruce Willis
+0167404,The Sixth Sense,1999,PG-13,107,293506292,Haley Joel Osment
+0167404,The Sixth Sense,1999,PG-13,107,293506292,Toni Collette
+0107290,Jurassic Park,1993,PG-13,127,404214720,Sam Neill
+0107290,Jurassic Park,1993,PG-13,127,404214720,Laura Dern
+0107290,Jurassic Park,1993,PG-13,127,404214720,Jeff Goldblum
+0268978,A Beautiful Mind,2001,PG-13,135,170742341,Russell Crowe
+0268978,A Beautiful Mind,2001,PG-13,135,170742341,Ed Harris
+0268978,A Beautiful Mind,2001,PG-13,135,170742341,Jennifer Connelly
+0055630,Yojimbo,1961,Unrated,110,46808,Toshirô Mifune
+0055630,Yojimbo,1961,Unrated,110,46808,Eijirô Tôno
+0055630,Yojimbo,1961,Unrated,110,46808,Tatsuya Nakadai
+0040897,The Treasure of the Sierra Madre,1948,Passed,126,5014000,Humphrey Bogart
+0040897,The Treasure of the Sierra Madre,1948,Passed,126,5014000,Walter Huston
+0040897,The Treasure of the Sierra Madre,1948,Passed,126,5014000,Tim Holt
+0071853,Monty Python and the Holy Grail,1975,PG,91,1827696,Graham Chapman
+0071853,Monty Python and the Holy Grail,1975,PG,91,1827696,John Cleese
+0071853,Monty Python and the Holy Grail,1975,PG,91,1827696,Eric Idle
+0477348,No Country for Old Men,2007,R,122,74283625,Tommy Lee Jones
+0477348,No Country for Old Men,2007,R,122,74283625,Javier Bardem
+0477348,No Country for Old Men,2007,R,122,74283625,Josh Brolin
+0266697,Kill Bill: Vol. 1,2003,R,111,70099045,Uma Thurman
+0266697,Kill Bill: Vol. 1,2003,R,111,70099045,David Carradine
+0266697,Kill Bill: Vol. 1,2003,R,111,70099045,Daryl Hannah
+0057115,The Great Escape,1963,Approved,172,,Steve McQueen
+0057115,The Great Escape,1963,Approved,172,,James Garner
+0057115,The Great Escape,1963,Approved,172,,Richard Attenborough
+0042876,Rashomon,1950,Unrated,88,46808,Toshirô Mifune
+0042876,Rashomon,1950,Unrated,88,46808,Machiko Kyô
+0042876,Rashomon,1950,Unrated,88,46808,Masayuki Mori
+0084787,The Thing,1982,R,109,19629760,Kurt Russell
+0084787,The Thing,1982,R,109,19629760,Wilford Brimley
+0084787,The Thing,1982,R,109,19629760,Keith David
+0266543,Finding Nemo,2003,G,100,380843261,Albert Brooks
+0266543,Finding Nemo,2003,G,100,380843261,Ellen DeGeneres
+0266543,Finding Nemo,2003,G,100,380843261,Alexander Gould
+10872600,Spider-Man: No Way Home,2021,PG-13,148,814115070,Tom Holland
+10872600,Spider-Man: No Way Home,2021,PG-13,148,814115070,Zendaya
+10872600,Spider-Man: No Way Home,2021,PG-13,148,814115070,Benedict Cumberbatch
+0080678,The Elephant Man,1980,PG,124,26010864,Anthony Hopkins
+0080678,The Elephant Man,1980,PG,124,26010864,John Hurt
+0080678,The Elephant Man,1980,PG,124,26010864,Anne Bancroft
+0071315,Chinatown,1974,R,130,29200000,Jack Nicholson
+0071315,Chinatown,1974,R,130,29200000,Faye Dunaway
+0071315,Chinatown,1974,R,130,29200000,John Huston
+0081398,Raging Bull,1980,R,129,23383987,Robert De Niro
+0081398,Raging Bull,1980,R,129,23383987,Cathy Moriarty
+0081398,Raging Bull,1980,R,129,23383987,Joe Pesci
+0434409,V for Vendetta,2005,R,132,70511035,Hugo Weaving
+0434409,V for Vendetta,2005,R,132,70511035,Natalie Portman
+0434409,V for Vendetta,2005,R,132,70511035,Rupert Graves
+0031381,Gone with the Wind,1939,Passed,238,200882193,Clark Gable
+0031381,Gone with the Wind,1939,Passed,238,200882193,Vivien Leigh
+0031381,Gone with the Wind,1939,Passed,238,200882193,Thomas Mitchell
+0046912,Dial M for Murder,1954,PG,105,24845,Ray Milland
+0046912,Dial M for Murder,1954,PG,105,24845,Grace Kelly
+0046912,Dial M for Murder,1954,PG,105,24845,Robert Cummings
+0120735,"Lock, Stock and Two Smoking Barrels",1998,R,107,3753929,Jason Flemyng
+0120735,"Lock, Stock and Two Smoking Barrels",1998,R,107,3753929,Dexter Fletcher
+0120735,"Lock, Stock and Two Smoking Barrels",1998,R,107,3753929,Nick Moran
+2096673,Inside Out,2015,PG,95,356921711,Amy Poehler
+2096673,Inside Out,2015,PG,95,356921711,Bill Hader
+2096673,Inside Out,2015,PG,95,356921711,Lewis Black
+0347149,Howl's Moving Castle,2004,PG,119,6789268,Chieko Baishô
+0347149,Howl's Moving Castle,2004,PG,119,6789268,Takuya Kimura
+0347149,Howl's Moving Castle,2004,PG,119,6789268,Tatsuya Gashûin
+1305806,The Secret in Their Eyes,2009,R,129,6391436,Ricardo Darín
+1305806,The Secret in Their Eyes,2009,R,129,6391436,Soledad Villamil
+1305806,The Secret in Their Eyes,2009,R,129,6391436,Pablo Rago
+5027774,"Three Billboards Outside Ebbing, Missouri",2017,R,115,54513740,Frances McDormand
+5027774,"Three Billboards Outside Ebbing, Missouri",2017,R,115,54513740,Woody Harrelson
+5027774,"Three Billboards Outside Ebbing, Missouri",2017,R,115,54513740,Sam Rockwell
+0117951,Trainspotting,1996,R,93,16491080,Ewan McGregor
+0117951,Trainspotting,1996,R,93,16491080,Ewen Bremner
+0117951,Trainspotting,1996,R,93,16491080,Jonny Lee Miller
+0050212,The Bridge on the River Kwai,1957,PG,161,27200000,William Holden
+0050212,The Bridge on the River Kwai,1957,PG,161,27200000,Alec Guinness
+0050212,The Bridge on the River Kwai,1957,PG,161,27200000,Jack Hawkins
+1392214,Prisoners,2013,R,153,61002302,Hugh Jackman
+1392214,Prisoners,2013,R,153,61002302,Jake Gyllenhaal
+1392214,Prisoners,2013,R,153,61002302,Viola Davis
+0116282,Fargo,1996,R,98,24611975,William H. Macy
+0116282,Fargo,1996,R,98,24611975,Frances McDormand
+0116282,Fargo,1996,R,98,24611975,Steve Buscemi
+1291584,Warrior,2011,PG-13,140,13657115,Tom Hardy
+1291584,Warrior,2011,PG-13,140,13657115,Nick Nolte
+1291584,Warrior,2011,PG-13,140,13657115,Joel Edgerton
+1205489,Gran Torino,2008,R,116,148095302,Clint Eastwood
+1205489,Gran Torino,2008,R,116,148095302,Bee Vang
+1205489,Gran Torino,2008,R,116,148095302,Christopher Carley
+0264464,Catch Me If You Can,2002,PG-13,141,164615351,Leonardo DiCaprio
+0264464,Catch Me If You Can,2002,PG-13,141,164615351,Tom Hanks
+0264464,Catch Me If You Can,2002,PG-13,141,164615351,Christopher Walken
+0096283,My Neighbor Totoro,1988,G,86,2250213,Hitoshi Takagi
+0096283,My Neighbor Totoro,1988,G,86,2250213,Noriko Hidaka
+0096283,My Neighbor Totoro,1988,G,86,2250213,Chika Sakamoto
+0405159,Million Dollar Baby,2004,PG-13,132,100492203,Hilary Swank
+0405159,Million Dollar Baby,2004,PG-13,132,100492203,Clint Eastwood
+0405159,Million Dollar Baby,2004,PG-13,132,100492203,Morgan Freeman
+0118849,Children of Heaven,1997,PG,89,933933,Mohammad Amir Naji
+0118849,Children of Heaven,1997,PG,89,933933,Amir Farrokh Hashemian
+0118849,Children of Heaven,1997,PG,89,933933,Bahare Seddiqi
+0083658,Blade Runner,1982,R,117,32914489,Harrison Ford
+0083658,Blade Runner,1982,R,117,32914489,Rutger Hauer
+0083658,Blade Runner,1982,R,117,32914489,Sean Young
+0015864,The Gold Rush,1925,Passed,95,,Charles Chaplin
+0015864,The Gold Rush,1925,Passed,95,,Mack Swain
+0015864,The Gold Rush,1925,Passed,95,,Tom Murray
+4729430,Klaus,2019,PG,96,,Jason Schwartzman
+4729430,Klaus,2019,PG,96,,J.K. Simmons
+4729430,Klaus,2019,PG,96,,Rashida Jones
+1201607,Harry Potter and the Deathly Hallows: Part 2,2011,PG-13,130,381447587,Daniel Radcliffe
+1201607,Harry Potter and the Deathly Hallows: Part 2,2011,PG-13,130,381447587,Emma Watson
+1201607,Harry Potter and the Deathly Hallows: Part 2,2011,PG-13,130,381447587,Rupert Grint
+0112471,Before Sunrise,1995,R,101,5535405,Ethan Hawke
+0112471,Before Sunrise,1995,R,101,5535405,Julie Delpy
+0112471,Before Sunrise,1995,R,101,5535405,Andrea Eckert
+2024544,12 Years a Slave,2013,R,134,56671993,Chiwetel Ejiofor
+2024544,12 Years a Slave,2013,R,134,56671993,Michael Kenneth Williams
+2024544,12 Years a Slave,2013,R,134,56671993,Michael Fassbender
+0052618,Ben-Hur,1959,G,212,74432704,Charlton Heston
+0052618,Ben-Hur,1959,G,212,74432704,Jack Hawkins
+0052618,Ben-Hur,1959,G,212,74432704,Stephen Boyd
+2278388,The Grand Budapest Hotel,2014,R,99,59301324,Ralph Fiennes
+2278388,The Grand Budapest Hotel,2014,R,99,59301324,F. Murray Abraham
+2278388,The Grand Budapest Hotel,2014,R,99,59301324,Mathieu Amalric
+0047296,On the Waterfront,1954,Approved,108,,Marlon Brando
+0047296,On the Waterfront,1954,Approved,108,,Karl Malden
+0047296,On the Waterfront,1954,Approved,108,,Lee J. Cobb
+2267998,Gone Girl,2014,R,149,167767189,Ben Affleck
+2267998,Gone Girl,2014,R,149,167767189,Rosamund Pike
+2267998,Gone Girl,2014,R,149,167767189,Neil Patrick Harris
+0050986,Wild Strawberries,1957,Unrated,91,,Victor Sjöström
+0050986,Wild Strawberries,1957,Unrated,91,,Bibi Andersson
+0050986,Wild Strawberries,1957,Unrated,91,,Ingrid Thulin
+0072684,Barry Lyndon,1975,PG,185,,Ryan O'Neal
+0072684,Barry Lyndon,1975,PG,185,,Marisa Berenson
+0072684,Barry Lyndon,1975,PG,185,,Patrick Magee
+0017925,The General,1926,Passed,67,,Buster Keaton
+0017925,The General,1926,Passed,67,,Marion Mack
+0017925,The General,1926,Passed,67,,Glen Cavender
+0107207,In the Name of the Father,1993,R,133,25096862,Daniel Day-Lewis
+0107207,In the Name of the Father,1993,R,133,25096862,Pete Postlethwaite
+0107207,In the Name of the Father,1993,R,133,25096862,Alison Crosbie
+0077416,The Deer Hunter,1978,R,183,48979328,Robert De Niro
+0077416,The Deer Hunter,1978,R,183,48979328,Christopher Walken
+0077416,The Deer Hunter,1978,R,183,48979328,John Cazale
+2119532,Hacksaw Ridge,2016,R,139,67209615,Andrew Garfield
+2119532,Hacksaw Ridge,2016,R,139,67209615,Sam Worthington
+2119532,Hacksaw Ridge,2016,R,139,67209615,Luke Bracey
+0041959,The Third Man,1949,Approved,93,1067364,Orson Welles
+0041959,The Third Man,1949,Approved,93,1067364,Joseph Cotten
+0041959,The Third Man,1949,Approved,93,1067364,Alida Valli
+0046268,The Wages of Fear,1953,Unrated,131,,Yves Montand
+0046268,The Wages of Fear,1953,Unrated,131,,Charles Vanel
+0046268,The Wages of Fear,1953,Unrated,131,,Peter van Eyck
+0353969,Memories of Murder,2003,Unrated,132,15357,Song Kang-ho
+0353969,Memories of Murder,2003,Unrated,132,15357,Kim Sang-kyung
+0353969,Memories of Murder,2003,Unrated,132,15357,Roe-ha Kim
+3011894,Wild Tales,2014,R,122,3106530,Darío Grandinetti
+3011894,Wild Tales,2014,R,122,3106530,María Marull
+3011894,Wild Tales,2014,R,122,3106530,Mónica Villa
+0015324,Sherlock Jr.,1924,Passed,45,977375,Buster Keaton
+0015324,Sherlock Jr.,1924,Passed,45,977375,Kathryn McGuire
+0015324,Sherlock Jr.,1924,Passed,45,977375,Joe Keaton
+0031679,Mr. Smith Goes to Washington,1939,Passed,129,144738,James Stewart
+0031679,Mr. Smith Goes to Washington,1939,Passed,129,144738,Jean Arthur
+0031679,Mr. Smith Goes to Washington,1939,Passed,129,144738,Claude Rains
+10366206,John Wick: Chapter 4,2023,R,169,181514089,Keanu Reeves
+10366206,John Wick: Chapter 4,2023,R,169,181514089,Laurence Fishburne
+10366206,John Wick: Chapter 4,2023,R,169,181514089,George Georgiou
+1392190,Mad Max: Fury Road,2015,R,120,154109060,Tom Hardy
+1392190,Mad Max: Fury Road,2015,R,120,154109060,Charlize Theron
+1392190,Mad Max: Fury Road,2015,R,120,154109060,Nicholas Hoult
+0978762,Mary and Max,2009,Unrated,92,,Toni Collette
+0978762,Mary and Max,2009,Unrated,92,,Philip Seymour Hoffman
+0978762,Mary and Max,2009,Unrated,92,,Eric Bana
+0892769,How to Train Your Dragon,2010,PG,98,217581231,Jay Baruchel
+0892769,How to Train Your Dragon,2010,PG,98,217581231,Gerard Butler
+0892769,How to Train Your Dragon,2010,PG,98,217581231,Christopher Mintz-Plasse
+0050976,The Seventh Seal,1957,Unrated,96,,Max von Sydow
+0050976,The Seventh Seal,1957,Unrated,96,,Gunnar Björnstrand
+0050976,The Seventh Seal,1957,Unrated,96,,Bengt Ekerot
+0097165,Dead Poets Society,1989,PG,128,95860116,Robin Williams
+0097165,Dead Poets Society,1989,PG,128,95860116,Robert Sean Leonard
+0097165,Dead Poets Society,1989,PG,128,95860116,Ethan Hawke
+0198781,"Monsters, Inc.",2001,G,92,290642256,Billy Crystal
+0198781,"Monsters, Inc.",2001,G,92,290642256,John Goodman
+0198781,"Monsters, Inc.",2001,G,92,290642256,Mary Gibbs
+0073195,Jaws,1975,PG,124,265859065,Roy Scheider
+0073195,Jaws,1975,PG,124,265859065,Robert Shaw
+0073195,Jaws,1975,PG,124,265859065,Richard Dreyfuss
+3170832,Room,2015,R,118,14677654,Brie Larson
+3170832,Room,2015,R,118,14677654,Jacob Tremblay
+3170832,Room,2015,R,118,14677654,Sean Bridgers
+0118715,The Big Lebowski,1998,R,117,18254458,Jeff Bridges
+0118715,The Big Lebowski,1998,R,117,18254458,John Goodman
+0118715,The Big Lebowski,1998,R,117,18254458,Julianne Moore
+0046438,Tokyo Story,1953,Unrated,136,,Chishû Ryû
+0046438,Tokyo Story,1953,Unrated,136,,Chieko Higashiyama
+0046438,Tokyo Story,1953,Unrated,136,,Sô Yamamura
+1950186,Ford v Ferrari,2019,PG-13,152,117624357,Matt Damon
+1950186,Ford v Ferrari,2019,PG-13,152,117624357,Christian Bale
+1950186,Ford v Ferrari,2019,PG-13,152,117624357,Jon Bernthal
+0019254,The Passion of Joan of Arc,1928,Passed,114,21877,Maria Falconetti
+0019254,The Passion of Joan of Arc,1928,Passed,114,21877,Eugene Silvain
+0019254,The Passion of Joan of Arc,1928,Passed,114,21877,André Berley
+0395169,Hotel Rwanda,2004,PG-13,121,23530892,Don Cheadle
+0395169,Hotel Rwanda,2004,PG-13,121,23530892,Sophie Okonedo
+0395169,Hotel Rwanda,2004,PG-13,121,23530892,Joaquin Phoenix
+0075148,Rocky,1976,PG,120,117235147,Sylvester Stallone
+0075148,Rocky,1976,PG,120,117235147,Talia Shire
+0075148,Rocky,1976,PG,120,117235147,Burt Young
+0382932,Ratatouille,2007,G,111,206445654,Brad Garrett
+0382932,Ratatouille,2007,G,111,206445654,Lou Romano
+0382932,Ratatouille,2007,G,111,206445654,Patton Oswalt
+0091763,Platoon,1986,R,120,138530565,Charlie Sheen
+0091763,Platoon,1986,R,120,138530565,Tom Berenger
+0091763,Platoon,1986,R,120,138530565,Willem Dafoe
+3315342,Logan,2017,R,137,226277068,Hugh Jackman
+3315342,Logan,2017,R,137,226277068,Patrick Stewart
+3315342,Logan,2017,R,137,226277068,Dafne Keen
+1895587,Spotlight,2015,R,129,45055776,Mark Ruffalo
+1895587,Spotlight,2015,R,129,45055776,Michael Keaton
+1895587,Spotlight,2015,R,129,45055776,Rachel McAdams
+0088247,The Terminator,1984,R,107,38371200,Arnold Schwarzenegger
+0088247,The Terminator,1984,R,107,38371200,Linda Hamilton
+0088247,The Terminator,1984,R,107,38371200,Michael Biehn
+0092005,Stand by Me,1986,R,89,52287414,Wil Wheaton
+0092005,Stand by Me,1986,R,89,52287414,River Phoenix
+0092005,Stand by Me,1986,R,89,52287414,Corey Feldman
+1979320,Rush,2013,R,123,26947624,Daniel Brühl
+1979320,Rush,2013,R,123,26947624,Chris Hemsworth
+1979320,Rush,2013,R,123,26947624,Olivia Wilde
+0074958,Network,1976,R,121,23689877,Faye Dunaway
+0074958,Network,1976,R,121,23689877,William Holden
+0074958,Network,1976,R,121,23689877,Peter Finch
+0381681,Before Sunset,2004,R,80,5820649,Ethan Hawke
+0381681,Before Sunset,2004,R,80,5820649,Julie Delpy
+0381681,Before Sunset,2004,R,80,5820649,Vernon Dobtcheff
+0032138,The Wizard of Oz,1939,G,102,24668669,Judy Garland
+0032138,The Wizard of Oz,1939,G,102,24668669,Frank Morgan
+0032138,The Wizard of Oz,1939,G,102,24668669,Ray Bolger
+0758758,Into the Wild,2007,R,148,18354356,Emile Hirsch
+0758758,Into the Wild,2007,R,148,18354356,Vince Vaughn
+0758758,Into the Wild,2007,R,148,18354356,Catherine Keener
+0036868,The Best Years of Our Lives,1946,Approved,170,23650000,Myrna Loy
+0036868,The Best Years of Our Lives,1946,Approved,170,23650000,Dana Andrews
+0036868,The Best Years of Our Lives,1946,Approved,170,23650000,Fredric March
+0070047,The Exorcist,1973,R,122,233005644,Ellen Burstyn
+0070047,The Exorcist,1973,R,122,233005644,Max von Sydow
+0070047,The Exorcist,1973,R,122,233005644,Linda Blair
+0107048,Groundhog Day,1993,PG,101,71107962,Bill Murray
+0107048,Groundhog Day,1993,PG,101,71107962,Andie MacDowell
+0107048,Groundhog Day,1993,PG,101,71107962,Chris Elliott
+0317705,The Incredibles,2004,PG,115,261441092,Craig T. Nelson
+0317705,The Incredibles,2004,PG,115,261441092,Samuel L. Jackson
+0317705,The Incredibles,2004,PG,115,261441092,Holly Hunter
+0113247,La haine,1995,Unrated,98,280859,Vincent Cassel
+0113247,La haine,1995,Unrated,98,280859,Hubert Koundé
+0113247,La haine,1995,Unrated,98,280859,Saïd Taghmaoui
+0035446,To Be or Not to Be,1942,Passed,99,3270000,Carole Lombard
+0035446,To Be or Not to Be,1942,Passed,99,3270000,Jack Benny
+0035446,To Be or Not to Be,1942,Passed,99,3270000,Robert Stack
+0325980,Pirates of the Caribbean: The Curse of the Black Pearl,2003,PG-13,143,305413918,Johnny Depp
+0325980,Pirates of the Caribbean: The Curse of the Black Pearl,2003,PG-13,143,305413918,Geoffrey Rush
+0325980,Pirates of the Caribbean: The Curse of the Black Pearl,2003,PG-13,143,305413918,Orlando Bloom
+1028532,Hachi: A Dog's Tale,2009,G,93,,Richard Gere
+1028532,Hachi: A Dog's Tale,2009,G,93,,Joan Allen
+1028532,Hachi: A Dog's Tale,2009,G,93,,Cary-Hiroyuki Tagawa
+0032551,The Grapes of Wrath,1940,Passed,129,,Henry Fonda
+0032551,The Grapes of Wrath,1940,Passed,129,,Jane Darwell
+0032551,The Grapes of Wrath,1940,Passed,129,,John Carradine
+0058946,The Battle of Algiers,1966,Unrated,121,879794,Brahim Hadjadj
+0058946,The Battle of Algiers,1966,Unrated,121,879794,Jean Martin
+0058946,The Battle of Algiers,1966,Unrated,121,879794,Yacef Saadi
+0048473,Pather Panchali,1955,Unrated,125,134241,Kanu Bannerjee
+0048473,Pather Panchali,1955,Unrated,125,134241,Karuna Bannerjee
+0048473,Pather Panchali,1955,Unrated,125,134241,Subir Banerjee
+15097216,Jai Bhim,2021,TV-MA,164,,Suriya
+15097216,Jai Bhim,2021,TV-MA,164,,Lijo Mol Jose
+15097216,Jai Bhim,2021,TV-MA,164,,Manikandan K.
+0476735,My Father and My Son,2005,Unrated,112,,Çetin Tekindor
+0476735,My Father and My Son,2005,Unrated,112,,Fikret Kuskan
+0476735,My Father and My Son,2005,Unrated,112,,Hümeyra
+0245712,Amores Perros,2000,R,154,5408467,Emilio Echevarría
+0245712,Amores Perros,2000,R,154,5408467,Gael García Bernal
+0245712,Amores Perros,2000,R,154,5408467,Goya Toledo
+0032976,Rebecca,1940,Approved,130,,Laurence Olivier
+0032976,Rebecca,1940,Approved,130,,Joan Fontaine
+0032976,Rebecca,1940,Approved,130,,George Sanders
+4016934,The Handmaiden,2016,Unrated,145,2006788,Kim Min-hee
+4016934,The Handmaiden,2016,Unrated,145,2006788,Ha Jung-woo
+4016934,The Handmaiden,2016,Unrated,145,2006788,Cho Jin-woong
+0061512,Cool Hand Luke,1967,GP,127,,Paul Newman
+0061512,Cool Hand Luke,1967,GP,127,,George Kennedy
+0061512,Cool Hand Luke,1967,GP,127,,Strother Martin
+0059742,The Sound of Music,1965,G,172,159287539,Julie Andrews
+0059742,The Sound of Music,1965,G,172,159287539,Christopher Plummer
+0059742,The Sound of Music,1965,G,172,159287539,Eleanor Parker
+0025316,It Happened One Night,1934,Passed,105,,Clark Gable
+0025316,It Happened One Night,1934,Passed,105,,Claudette Colbert
+0025316,It Happened One Night,1934,Passed,105,,Walter Connolly
+0053198,The 400 Blows,1959,Unrated,99,509,Jean-Pierre Léaud
+0053198,The 400 Blows,1959,Unrated,99,509,Albert Rémy
+0053198,The 400 Blows,1959,Unrated,99,509,Claire Maurier
+0060827,Persona,1966,Unrated,83,,Bibi Andersson
+0060827,Persona,1966,Unrated,83,,Liv Ullmann
+0060827,Persona,1966,Unrated,83,,Margaretha Krook
+0079470,Life of Brian,1979,R,94,20206622,Graham Chapman
+0079470,Life of Brian,1979,R,94,20206622,John Cleese
+0079470,Life of Brian,1979,R,94,20206622,Michael Palin
+0129167,The Iron Giant,1999,PG,86,23315035,Eli Marienthal
+0129167,The Iron Giant,1999,PG,86,23315035,Harry Connick Jr.
+0129167,The Iron Giant,1999,PG,86,23315035,Jennifer Aniston
+1454029,The Help,2011,PG-13,146,169708112,Viola Davis
+1454029,The Help,2011,PG-13,146,169708112,Emma Stone
+1454029,The Help,2011,PG-13,146,169708112,Octavia Spencer
+0103639,Aladdin,1992,G,90,217350219,Scott Weinger
+0103639,Aladdin,1992,G,90,217350219,Robin Williams
+0103639,Aladdin,1992,G,90,217350219,Linda Larkin
+0099348,Dances with Wolves,1990,PG-13,181,184208848,Kevin Costner
+0099348,Dances with Wolves,1990,PG-13,181,184208848,Mary McDonnell
+0099348,Dances with Wolves,1990,PG-13,181,184208848,Graham Greene
